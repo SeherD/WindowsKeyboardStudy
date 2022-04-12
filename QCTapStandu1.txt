@@ -1,0 +1,24 @@
+Test Phrase:head shoulders knees and toes
+Transcribed Phrase:h
+Number of characters typed: 4
+Characters per second: 3.913999
+Number of words typed: 0.8
+Words per minute: 46.96799
+Error rate: 96.551724137931
+JoystickButton4 Joystick1Button4 H Return 
+Test Phrase:a good stimulus deserves a good response
+Transcribed Phrase:a
+Number of characters typed: 2
+Characters per second: 3.599062
+Number of words typed: 0.4
+Words per minute: 43.18875
+Error rate: 97.5
+A Return 
+Test Phrase:vanilla flavored ice cream
+Transcribed Phrase:v
+Number of characters typed: 2
+Characters per second: 3.892929
+Number of words typed: 0.4
+Words per minute: 46.71515
+Error rate: 96.1538461538462
+B Backspace V Return 

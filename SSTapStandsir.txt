@@ -1,0 +1,32 @@
+Test Phrase:public transit is much faster
+Transcribed Phrase:public transit is much faster
+Number of characters typed: 30
+Characters per second: 0.7097456
+Number of words typed: 6
+Words per minute: 8.516948
+Error rate: 0
+P U B L I U Backspace C H Backspace Space T R E Backspace A N S I T Space I S Space M U C H Space M Backspace F A S T E R Return 
+Test Phrase:come and see our new car
+Transcribed Phrase:come and see our new car
+Number of characters typed: 25
+Characters per second: 0.9203171
+Number of words typed: 5
+Words per minute: 11.04381
+Error rate: 0
+C O M E Space A N D Space S E E Space O U R Space N E W Space C A R Return 
+Test Phrase:bad for the environment
+Transcribed Phrase:bad for the environment
+Number of characters typed: 24
+Characters per second: 0.6613253
+Number of words typed: 4.8
+Words per minute: 7.935904
+Error rate: 0
+B A N Backspace D Space F O R Space T S Backspace H E Space E N H Backspace V I R O N M E N T Return 
+Test Phrase:The lone lamp post of the one - street town flickered, not quite dead but definitely on its way out. Suitcase by her side, she paid no heed to the light, the street or the town.A car was coming down the street and with her arm outstretched and thumb in the air, she had a plan.
+Transcribed Phrase:The lone lamp post of the one - street toWn flickered, not q-ite dead but definitely on its way out. Suitcase by her side, she paid no heed to the light, the street or the town.A car was coming down the street and with her arm outstretched and thumb in the air, she had a plan.
+Number of characters typed: 276
+Characters per second: 0.6883731
+Number of words typed: 55.2
+Words per minute: 8.260478
+Error rate: 0.72202166064982
+Backspace Backspace T H E R Backspace Space L O T Backspace N E K Backspace Space L A M P R Backspace Space P O S T Space O M T Backspace Backspace F Space T H E Space O N E Space U Backspace Minus Space S R Backspace T R E E T Space T O Y Backspace W T Backspace N Space M Backspace F L I C K E R E D A Backspace Comma Space N O T Space Q U Backspace Minus I T E Space D E A D Space B U T Space I Backspace K Backspace D E F I N O R Backspace L Backspace Backspace I T E L Y Space O N Space I T S Space Z Backspace W E T Backspace Backspace A Y Space S Backspace O U T Space Backspace Period Space R Backspace S U I T C E T Backspace Backspace A S E Space B Y Space Alpha9 Backspace Alpha9 Backspace H E R Space S I K Backspace D E A Backspace Comma Space Alpha9 Backspace S H E Space P A I D Space N O Space H E E I Backspace D Space T O Space T H E Space L I R Backspace G H T A Backspace Comma Space T H E Space S T R E E T Space O R Space T H E Space T O W N Space Backspace Period R Backspace E Backspace A Space C A R Space W A S Space C O M I N G Space I Backspace D O W N Space T Q Backspace H E Space S T R E E T Space A N D Space W I T Space Backspace H Space H E R Space A R M Space O U T S T R E T C H E D Space A N I Backspace K Backspace G R Backspace Backspace D Space T H U M X Backspace B Space I N Space T H E Space A I R A Backspace Comma Space S H E Space H A I Backspace D Space A Space Space Backspace P L A N Space Backspace Period Return 

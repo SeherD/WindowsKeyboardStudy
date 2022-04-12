@@ -1,0 +1,32 @@
+Test Phrase:I spilled coffee on the carpet
+Transcribed Phrase:I
+Number of characters typed: 2
+Characters per second: 2.483508
+Number of words typed: 0.4
+Words per minute: 29.80209
+Error rate: 96.6666666666667
+LeftShift I Return 
+Test Phrase:a steep learning curve in riding a unicycle
+Transcribed Phrase:a
+Number of characters typed: 2
+Characters per second: 3.361084
+Number of words typed: 0.4
+Words per minute: 40.33302
+Error rate: 97.6744186046512
+A Return 
+Test Phrase:I skimmed through your proposal
+Transcribed Phrase:I
+Number of characters typed: 2
+Characters per second: 1.921836
+Number of words typed: 0.4
+Words per minute: 23.06204
+Error rate: 96.7741935483871
+LeftShift I Return 
+Test Phrase:The lone lamp post of the one - street town flickered, not quite dead but definitely on its way out. Suitcase by her side, she paid no heed to the light, the street or the town.A car was coming down the street and with her arm outstretched and thumb in the air, she had a plan.
+Transcribed Phrase:The lone lamp post of the one - street twn flickered, not quite dead but definitely on its way out. Suitcase by her side, he paid no heed to the light, the street or the town. a car was coming down the street and with her arm outstretched and thumb in the air, she had a plan.
+Number of characters typed: 274
+Characters per second: 0.5605627
+Number of words typed: 54.8
+Words per minute: 6.726752
+Error rate: 1.44404332129964
+Backspace Backspace Backspace T H E Space L O N E Space L E Backspace A M B Backspace P Space N Backspace P O S T Space O F A Backspace Space T H E Space O N E Space U Backspace Minus Space S T R E E T Space T O Backspace W T Backspace N Space F L I C K E R A E Backspace Backspace E D A A Backspace Backspace A Backspace Comma Space N O T V Backspace Space B Backspace U H Backspace B Backspace Backspace B Backspace T Backspace T R Backspace Backspace E Backspace Q U I T E Space D E A K Backspace D Space B U T Space K Backspace D E F I N I T E L Y Space O N Space I T S Space W E Backspace A Y Space O U T Space Backspace Period Space Backspace Space S U I T C A S E Space B Y Space H E R Space S I D E A Backspace Comma Space S Backspace Alpha0 Alpha0 Alpha9 H Backspace Backspace Backspace Backspace H E Space J Backspace P E Backspace A I D Space N O A Space Backspace Backspace Space Alpha9 Backspace H E E D Space T O Space T H E Space L I G H T A Backspace Comma Space T H E Space S T R E E T Space O R Space T H E Space T O Y Backspace C Backspace J Backspace W T Backspace N Space Backspace Period A Backspace Comma Backspace R Backspace Space A Space V Backspace C A R Space W A S Space C O M I N G Space D K Backspace O W T Backspace N Space T H E Space S T R E E T Space A N D Space W O Backspace I T H Space H E R Space A R M Space O U T S T R E T C H E K Backspace R Backspace D Space A T Backspace N D Space T H U M Y Backspace B Space I N Space T H E Space E Backspace A I R A Backspace Comma Space S H E Space H A M Backspace D Space A Space J Backspace J Backspace P L A N Space Backspace Period Return 

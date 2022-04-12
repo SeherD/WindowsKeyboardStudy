@@ -1,0 +1,32 @@
+Test Phrase:exceed the maximum speed limit
+Transcribed Phrase:exceed the maximum speed limit
+Number of characters typed: 30
+Characters per second: 1.261405
+Number of words typed: 6
+Words per minute: 15.13685
+Error rate: 0
+q a g back back back e x c e e d space t h e space m a x i m u m space s p e e d space l i m i t 
+Test Phrase:time to go shopping
+Transcribed Phrase:time to go shopping
+Number of characters typed: 19
+Characters per second: 0.8968385
+Number of words typed: 3.8
+Words per minute: 10.76206
+Error rate: 0
+t i m e space t o space t - g o back back back back g o space s h o p p i n g 
+Test Phrase:rain rain go away
+Transcribed Phrase:rain rain go away
+Number of characters typed: 17
+Characters per second: 1.090585
+Number of words typed: 3.4
+Words per minute: 13.08702
+Error rate: 0
+r a i n space r a i n space g o space a w a t back y 
+Test Phrase:"Begin today!" That's all the note said. There was no indication from where it came or who may have written it. Had it been meant for someone else? Meghan looked around the room, but nobody made eye contact back. For a brief moment, she thought it might be a message for her to follow her dreams, but ultimately decided it was easier to ignore it as she crumpled it up and threw it away.
+Transcribed Phrase:"Begin today!" That's all the note said. There was no indication from where it came or who may have written it. Had it been meant for someone else? Meghan looked around the room , but nobody made eye contact back. For a brief moment, she thought it might be a message for her to follow her dreams, but ultimately it was easier to ignore it as she crumpled it up and threw it away.
+Number of characters typed: 380
+Characters per second: 1.177377
+Number of words typed: 76
+Words per minute: 14.12852
+Error rate: 2.32558139534884
+" b e g i n space t o d a y ! " space t h a t ' s space space back a l l space t h e space n o t e space s a i d . space t h e r e space w a s space n o space i n d i c a t i o n space f r o m space w h e r e space i t space c a m e space o r space h back w h o space m a y space h a c back v e space w r i t t e n space i t . space h a d space i t space b e e n space m e s n t space back back back back a n t space f o r space s o m e o n e space e l s e ? space m e g h a n space l o o k e d space a r o u n d space t h e space r o o m space , space b u t space n o b o d y space m a d e space e y e space c o n t a c t space b a c k . space f o r space a space b r i e f space m o m e n t , space s h e space t h o u g h t space i t space m i g h t space b e space a space m e s s a g e space f o r space h e r space t o space f o l l o w space h e r space d r e a m s space back , space b u t space u l t i m a t e l y space i t space w a s space e a s i e r space t o space i g n o r e space i t space a s space s h e space c r u m p l e d space i t space u p space a n d space t h r e w space i t space a w a y . 

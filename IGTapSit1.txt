@@ -1,0 +1,32 @@
+Test Phrase:watch out for low flying objects
+Transcribed Phrase:w
+Number of characters typed: 48
+Characters per second: 43.8455
+Number of words typed: 9.6
+Words per minute: 526.146
+Error rate: 96.875
+JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 U Backspace W Return 
+Test Phrase:physics and chemistry are hard
+Transcribed Phrase:p
+Number of characters typed: 2
+Characters per second: 2.059812
+Number of words typed: 0.4
+Words per minute: 24.71774
+Error rate: 96.6666666666667
+P Return 
+Test Phrase:stability of the nation
+Transcribed Phrase:s
+Number of characters typed: 2
+Characters per second: 5.755019
+Number of words typed: 0.4
+Words per minute: 69.06023
+Error rate: 95.6521739130435
+S Return 
+Test Phrase:The lone lamp post of the one - street town flickered, not quite dead but definitely on its way out. Suitcase by her side, she paid no heed to the light, the street or the town.A car was coming down the street and with her arm outstretched and thumb in the air, she had a plan.
+Transcribed Phrase:The lone lamp po8st of the one u- street town pfli
+Number of characters typed: 51
+Characters per second: 0.9858412
+Number of words typed: 10.2
+Words per minute: 11.83009
+Error rate: 83.7545126353791
+U Backspace N Backspace P Backspace P Backspace P Backspace T H E Space L O N E Space L A M P Space P O Alpha8 S T Space O F Space T H E Space O N E Space U U Backspace Minus Space S T R E E T Space T O W N Space P F L I Return 

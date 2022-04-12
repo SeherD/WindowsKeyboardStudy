@@ -1,0 +1,8 @@
+Test Phrase:exercise is good for the mind
+Transcribed Phrase:eemmxerctise is good forh th mind
+Number of characters typed: 48
+Characters per second: 0.6742486
+Number of words typed: 9.6
+Words per minute: 8.090984
+Error rate: 18.1818181818182
+D JoystickButton5 Joystick2Button5 JoystickButton17 Joystick2Button17 JoystickButton5 Joystick2Button5 JoystickButton17 Joystick2Button17 JoystickButton5 Joystick2Button5 JoystickButton17 Joystick2Button17 JoystickButton5 Joystick2Button5 Backspace E Alpha4 Alpha0 Backspace Backspace E M M X E R C T I S E Space T L Backspace Backspace T Space H Space H T Backspace Backspace Backspace Backspace T Backspace Backspace Backspace I S Space G O O N Backspace D Space F O R H Space T H E Backspace Space M I N D Return 

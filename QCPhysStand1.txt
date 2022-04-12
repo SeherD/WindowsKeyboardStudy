@@ -1,0 +1,32 @@
+Test Phrase:we missed your birthday
+Transcribed Phrase:w
+Number of characters typed: 2
+Characters per second: 1.995547
+Number of words typed: 0.4
+Words per minute: 23.94656
+Error rate: 95.6521739130435
+F Backspace F Backspace W Return 
+Test Phrase:this watch is too expensive
+Transcribed Phrase:this watvh is too expensive
+Number of characters typed: 28
+Characters per second: 0.5538839
+Number of words typed: 5.6
+Words per minute: 6.646606
+Error rate: 3.7037037037037
+U Backspace U Backspace O Backspace U Backspace I Backspace J Backspace K L Backspace Backspace Y Backspace P Backspace LeftBracket Backspace K Backspace G Backspace U Backspace I Backspace W Backspace S Backspace E Backspace W Backspace Alpha6 Backspace W Backspace T J Backspace J K Backspace Backspace K Backspace L Backspace H O Backspace I D Backspace F Backspace D Backspace S Space W A Y Backspace U Backspace T B Backspace N Backspace V J Backspace I Backspace K Backspace L Backspace H Space P Backspace Alpha9 Backspace I F Backspace D Backspace D S Backspace Space U Backspace Y Backspace O Backspace T P Backspace I O Backspace Backspace I I Backspace Backspace O O Space E C X Backspace P E M Backspace B N Backspace Backspace N S I B Backspace V E Return 
+Test Phrase:keep receipts for all your expenses
+Transcribed Phrase:keep receipts for sll your expwnsws
+Number of characters typed: 36
+Characters per second: 0.4065728
+Number of words typed: 7.2
+Words per minute: 4.878873
+Error rate: 8.57142857142857
+L Backspace L Backspace Semicolon Backspace K E E LeftBracket Backspace P Space T Backspace D D Backspace Backspace R E C E O Backspace O Backspace O P Backspace Backspace P Backspace I P T D S Backspace Space F P Backspace P Backspace RightBracket Backspace P Backspace RightBracket Backspace O T Backspace Y Backspace R Space D Backspace S Backspace F Backspace F V Backspace Backspace S Backspace S L L Space I U Backspace Backspace Alpha8 Backspace Y P Backspace LeftBracket Backspace I Backspace P Backspace M Backspace J Backspace P I T Backspace Backspace Backspace P Backspace LeftBracket Backspace P Backspace P O Backspace Backspace P Backspace LeftBracket Backspace P Backspace O U T Backspace R Space R Backspace S Backspace S Backspace S Backspace D Backspace Z Backspace E C Backspace X P W M Backspace N S W A Backspace S Backslash Backspace Return 
+Test Phrase:Trees.It was something about the trees. The way they swayed with the wind in unison.The way they shaded the area around them. The sounds of their leaves in the wind and the creaks from the branches as they sway, the trees were making a statement that I just couldn't understand.
+Transcribed Phrase:Trees. It was somethimh sbout the rewws. Yjr wau theu swayrf wiyj yjf ssinz im umnison. The war thry ehsded yjr sewa aroumg yjt,. Ygf fpim\
+Number of characters typed: 146
+Characters per second: 0.8427163
+Number of words typed: 29.2
+Words per minute: 10.1126
+Error rate: 66.5467625899281
+RightShift Y Backspace RightShift T R E E S Slash Backspace Period Space RightShift I Y Backspace Alpha6 Backspace T Y Backspace Space E W Backspace S LeftArrow A S Backspace RightArrow RightAlt AltGr Space D Backspace A Backspace S O Comma Backspace N Backspace Comma Backspace M E T H I M H Space S B O U T Space T H E Space R E W W S Space Backspace RightShift RightAlt AltGr Period Space RightShift Y J R Space W A T Backspace Alpha7 Backspace U Space T H E R Equals Backspace Backspace U Space S W A Y R F Space E Backspace T Backspace E W Backspace Backspace W I Y J Space G Backspace Y J F Space E Backspace E Backspace A Backspace S S I N V Backspace X Backspace X Backspace Z Space O Backspace O Backspace U Backspace P Backspace LeftBracket Backspace I Space M Backspace Backspace M Space U M N O Backspace Alpha0 P Backspace Backspace I D Backspace F Backspace S O N Space Backspace Period Space RightShift Y Y Backspace Backspace RightShift T H R Backspace T Backspace E Space W A R Space T H R Y Space D Backspace F Backspace X Minus Equals Backspace Backspace Backspace E H S D E D Space Y J R Space S E W A Space D Backspace A R O I Backspace U M G Space Y J T Comma Slash Space Backspace Backspace Slash Space Backspace Backspace Period Space RightShift Y Backspace RightShift I Backspace RightShift U Backspace RightShift Y J Backspace K Backspace L Backspace Semicolon Backspace J Backspace K Backspace J Backspace G F Space F P I M Backslash Backslash Backslash Backslash Backspace Backspace Backspace Return 

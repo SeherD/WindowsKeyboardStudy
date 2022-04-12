@@ -1,0 +1,32 @@
+Test Phrase:arguing with the boss is futile
+Transcribed Phrase:arguing with the boss is futile
+Number of characters typed: 69
+Characters per second: 1.681586
+Number of words typed: 13.8
+Words per minute: 20.17903
+Error rate: 0
+JoystickButton5 Joystick2Button5 JoystickButton15 Joystick2Button15 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton5 Joystick2Button5 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton5 Joystick2Button5 JoystickButton17 Joystick2Button17 JoystickButton5 Joystick2Button5 JoystickButton5 Joystick2Button5 JoystickButton5 Joystick2Button5 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 A JoystickButton15 Joystick2Button15 A E G U Backspace Backspace Backspace Backspace A R G U E Backspace I N G Space W I T H Space T H E Space C Backspace B O S S Space I S Space F U T I I E Backspace Backspace L E Return 
+Test Phrase:the cotton is high
+Transcribed Phrase:the cotton is high
+Number of characters typed: 19
+Characters per second: 2.236997
+Number of words typed: 3.8
+Words per minute: 26.84396
+Error rate: 0
+T H E Space C O T T O N Space I S Space H I G H Return 
+Test Phrase:space is a high priority
+Transcribed Phrase:space is a high priority
+Number of characters typed: 25
+Characters per second: 1.581578
+Number of words typed: 5
+Words per minute: 18.97894
+Error rate: 0
+S P A C E Space I S Space A Space H I G H Space P R I O T Backspace R I T Y Return 
+Test Phrase:The lone lamp post of the one - street town flickered, not quite dead but definitely on its way out. Suitcase by her side, she paid no heed to the light, the street or the town.A car was coming down the street and with her arm outstretched and thumb in the air, she had a plan.
+Transcribed Phrase:The lone lamp post of the one - street town flickered, not quite dead but definitely on its way out. Suitcase by her side, she paid no heed to the light, the street or the town.A car was coming down the street and with her arm outstanding and thumb in the air, she had a plan.
+Number of characters typed: 277
+Characters per second: 1.546308
+Number of words typed: 55.4
+Words per minute: 18.55569
+Error rate: 2.52707581227437
+LeftShift T H E Space L O N E Space L A M P Space P O S T Space O F Space T H E Space O N E Space Minus Space S T R E E R Space Backspace Backspace T Space T O E Backspace W N Space F L I C K E R E D Space Backspace Comma Space N O T Space Q U I T E Space D E A D Space B U R Backspace T Space D E F I N I T E L Y Space O N Space I T S Space W A Y Space O U T Period Space LeftShift S U I T C A S E Space B Y Space H E R Space S I D E Comma Space S H E Space P A I D Space N O Space H E E D Space T O Space T H E Space L I H Backspace G T Backspace H T Comma Space T H E Space S T R E E R Backspace T Space O T Space Backspace Backspace E Backspace R Space T H E Space T O W N Period LeftShift A Space C A R Space W A S Space C O M I N G Space S Backspace D O E W Backspace N Space T H E Space S T R E E T Space A N D Space W I T H Space H R Backspace E R Space A R M Space O U T S R Backspace T A B Backspace N D I N G Space A N D Space T H U M B Space I N Space T H E Space A I T Backspace R Comma Space S H E Space H A D Space A Space P A I Backspace Backspace Backspace P L A N Period Return 

@@ -1,0 +1,32 @@
+Test Phrase:the plug does not fit the socket
+Transcribed Phrase:t
+Number of characters typed: 55
+Characters per second: 50.09597
+Number of words typed: 11
+Words per minute: 601.1516
+Error rate: 96.875
+JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 Return Return Return Space Return Return Return Space H J K Backspace Backspace Backspace Backspace Return Space Y Return Return Backspace T Return 
+Test Phrase:please try to be home before midnight
+Transcribed Phrase:p
+Number of characters typed: 4
+Characters per second: 8.228385
+Number of words typed: 0.8
+Words per minute: 98.74062
+Error rate: 97.2972972972973
+Semicolon Return Backspace P Return Backspace P Return 
+Test Phrase:healthy food is good for you
+Transcribed Phrase:h
+Number of characters typed: 2
+Characters per second: 4.368412
+Number of words typed: 0.4
+Words per minute: 52.42094
+Error rate: 96.4285714285714
+H Return 
+Test Phrase:"Begin today!" That's all the note said. There was no indication from where it came or who may have written it. Had it been meant for someone else? Meghan looked around the room, but nobody made eye contact back. For a brief moment, she thought it might be a message for her to follow her dreams, but ultimately decided it was easier to ignore it as she crumpled it up and threw it away.
+Transcribed Phrase:"Begin today!" That's all the note said. There was no indication from where it came or who may have written it. 
+Number of characters typed: 114
+Characters per second: 1.89563
+Number of words typed: 22.8
+Words per minute: 22.74756
+Error rate: 71.0594315245478
+RightShift Quote RightShift B E G I N Space T O D A Y LeftShift Alpha1 RightShift Quote Space RightShift T H S Backspace A T Quote S Space A L L Space T H E Space N O T E Space S A I D Period Space RightShift T H E R E Space W A S Space M P Insert Backspace Backspace N O Space I N D I C A T I O N Space F R O M Space W H E R E Space I T Space H A D Space C O Backspace Backspace Backspace Backspace Backspace Backspace C A M E Space O R Space W H O Space Space Backspace M A Y Space H A V E Space W R I T T E N Space I T Period Space Return 

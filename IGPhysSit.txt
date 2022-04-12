@@ -1,0 +1,32 @@
+Test Phrase:if you were not so stupid
+Transcribed Phrase:if you were not so stupid
+Number of characters typed: 87
+Characters per second: 18.48646
+Number of words typed: 17.4
+Words per minute: 221.8376
+Error rate: 0
+JoystickButton16 Joystick1Button16 JoystickButton4 Joystick1Button4 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton4 Joystick1Button4 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton4 Joystick1Button4 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 LeftControl I F Space T Y O Backspace Backspace Backspace Y O U Space W E R E Space N O T Space S O Space S T U P I D Return 
+Test Phrase:breathing is difficult
+Transcribed Phrase:breathing is difficult
+Number of characters typed: 23
+Characters per second: 8.277452
+Number of words typed: 4.6
+Words per minute: 99.32941
+Error rate: 0
+B R E A T H I N G Space I S Space D I F F I C U L T Return 
+Test Phrase:the treasury department is broke
+Transcribed Phrase:the treasury department is broke
+Number of characters typed: 33
+Characters per second: 7.841693
+Number of words typed: 6.6
+Words per minute: 94.10032
+Error rate: 0
+T H E Space T R E A S U R Y Space D E P A R T M E N T Space I S Space B R O K E Return 
+Test Phrase:Trees.It was something about the trees. The way they swayed with the wind in unison.The way they shaded the area around them. The sounds of their leaves in the wind and the creaks from the branches as they sway, the trees were making a statement that I just couldn't understand.
+Transcribed Phrase:Trees. It was something about the trees. The way they swayed with the wind in unison. The way they shaded the area around them. The sounds of their leaves in the wind and the creaks from the branches as they sway, the trees were making a statement that I just couldn't understand.
+Number of characters typed: 281
+Characters per second: 5.464441
+Number of words typed: 56.2
+Words per minute: 65.5733
+Error rate: 0.714285714285714
+RightShift T R E E S Period Space RightShift I T Space W A S Space S O M E T H I N G Space A B O U T Space T H E Space T R E E S Period Space RightShift T H E Space W A Y Space T H E Y Space S Backspace S W A Y E D Space W I T H Space T H E Space W I N D Space I N Space U N I S O N Space Backspace Period Space RightShift T H E Space W A Y Space T H E Y Space S H A D E D Space T E Backspace H E Space A R E A Space A R O U N D Space T H E M Period Space RightShift T H E Space S O U N D S Space O F Space T H E I R Space L E A F E Backspace Backspace V E S Space I N Space T E H Space W I N D Space A S N Backspace Backspace Backspace Backspace Backspace Backspace Backspace Backspace Backspace Backspace Backspace H E Space W I N D Space A N D Space T H E Space C R E A K S Space F R O Backspace O M Space T H E Space B R A N C H E S Space A S Space T H E Y Space S W A Y Period Space T Backspace Backspace Backspace Backspace Y Period Backspace Comma Space T H E Space T R E E S Space W E R E Space M A K I N G H Space A Space Backspace Backspace Backspace Backspace Space A Space S T A T E M E N T Space T H A T Space RightShift I Space J U S T Space C O U L D N Quote T Space U N D E R S T N A D Period Backspace Backspace Backspace Backspace A N D Period Return 

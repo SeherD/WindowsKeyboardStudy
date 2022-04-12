@@ -1,0 +1,32 @@
+Test Phrase:there are winners and losers
+Transcribed Phrase:there are winners and losers
+Number of characters typed: 29
+Characters per second: 1.508843
+Number of words typed: 5.8
+Words per minute: 18.10612
+Error rate: 0
+T H W Backspace E R E Space A R E Space W I N N E R S Space S Backspace S Backspace A N D S Backspace Backspace F Backspace D Space L O S E R S Return 
+Test Phrase:we park in driveways
+Transcribed Phrase:we park in driveways
+Number of characters typed: 21
+Characters per second: 1.364185
+Number of words typed: 4.2
+Words per minute: 16.37022
+Error rate: 0
+W E Space LeftBracket Backspace O Backspace P A R K Space O Backspace I N Space D R I V E W A Y S Return 
+Test Phrase:video camera with a zoom lens
+Transcribed Phrase:video camera with a zoom lens
+Number of characters typed: 30
+Characters per second: 1.345651
+Number of words typed: 6
+Words per minute: 16.14781
+Error rate: 0
+V I D E O Space C A Comma Backspace M R Backspace E R A Space W I T H Space A Space X Backspace Z O O M N Backspace Space L E B Backspace N A Backspace D Backspace S Return 
+Test Phrase:There wasn't a whole lot more that could be done. It had become a wait-and-see situation with the final results no longer in her control. That didn't stop her from trying to control the situation.She demanded that things be done as she desperately tried to control what couldn't be
+Transcribed Phrase:There wasn't a whole lot more that could be done. It had become a wait-and-see situation with the final results no longer in her control. That didn't stop her from trying to control the situation. She demanded that things be done as she desperately tried to control what couldn't be
+Number of characters typed: 283
+Characters per second: 1.241014
+Number of words typed: 56.6
+Words per minute: 14.89217
+Error rate: 0.354609929078014
+LeftShift T H E R E Space W A D Backspace A Backspace S N T Backspace Quote T Space A Space W H O L E Space Semicolon Backspace L O T Space M O R E Space T H S Y Backspace Backspace A T Space V Backspace C O I Backspace U Semicolon Backspace L D Space B E Space F Backspace D O N E Period Space RightShift O Backspace RightShift I I Backspace T Space G Backspace Backspace Space H A S Backspace S Backspace D Space V Backspace C Backspace V Backspace C Backspace B E C O P Backspace Comma M Backspace E Space A Space E Backspace Q Backspace W A I T Space Backspace Minus A N D Minus A Backspace S Alpha4 Alpha4 Backspace Backspace E E Space S I U Backspace Backspace I T Y Equals Backspace Backspace U A T I O N Space W I T H Space R Backspace T H E Space F I N S Backspace A Semicolon Backspace L Space R E A S Backspace Backspace S U L R Backspace R Backspace T A Backspace S Space B Backspace N O Space L O N F Backspace G E R Space I U Backspace Backspace I N Space H E R Space C O N T R O L Period Space LeftShift T H A T Space F Backspace D I D M N Backspace Backspace M Backspace B Backspace N T Backspace Quote T Space S Y Backspace Y Backspace T O P Space H R T Backspace Backspace E R T Backspace Space F R O M Space R Backspace T E R Backspace Backspace E Backspace R E Backspace Y N Backspace I N G Space T O Space C O N T E R Backspace Backspace R O L Space T H E R Backspace Space S I Y Backspace T U S Backspace S Backspace A Y Backspace Y Backspace U Backspace T I O M N Backspace Backspace M Backspace N Period Space LeftShift G Backspace LeftShift F Backspace LeftShift D Backspace LeftShift S J Backspace G H Backspace Backspace H R Backspace E Space D E M S Backspace A N D E D Space T H S T Backspace Backspace A T Space T H I N G S Space B E Space F Backspace D O P Backspace N E Space A S Space D Backspace S H R Backspace E Space D E S P E R S Backspace A T E L Y Space R T Backspace Backspace Y Backspace R T Backspace Backspace R Backspace T Y Backspace R I E D Space T O Space C O B N Backspace Backspace N T R O I Backspace L Space W Y Backspace G Backspace H A T Space C O U L D N T Backspace Quote Y Backspace T Space B N Backspace E Return 

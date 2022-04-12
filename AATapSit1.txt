@@ -1,0 +1,32 @@
+Test Phrase:the rationale behind the decision
+Transcribed Phrase:t
+Number of characters typed: 2
+Characters per second: 1.740395
+Number of words typed: 0.4
+Words per minute: 20.88474
+Error rate: 96.969696969697
+T Return 
+Test Phrase:do you prefer a window seat
+Transcribed Phrase:d
+Number of characters typed: 2
+Characters per second: 1.527488
+Number of words typed: 0.4
+Words per minute: 18.32986
+Error rate: 96.2962962962963
+D Return 
+Test Phrase:weeping willows are found near water
+Transcribed Phrase:weepg willows re found near waTeru
+Number of characters typed: 35
+Characters per second: 0.3383754
+Number of words typed: 7
+Words per minute: 4.060505
+Error rate: 13.8888888888889
+A O Backspace Backspace W E E U Backspace P I N Backspace Backspace G Space Z Backspace Z Backspace Z Backspace W I L L O U Backspace Q R Backspace Backspace Y Backspace U Backspace Z Backspace Z Backspace D Backspace W S Space A L O Backspace Backspace Backspace R E Space M R Backspace Backspace M Backspace E Backspace F O U N E Backspace D Space N E A R H Backspace Space W A T E R Backspace Backspace Backspace A Backspace T E H Backspace Space Backspace Space R Backspace Backspace R U Return 
+Test Phrase:The lone lamp post of the one - street town flickered, not quite dead but definitely on its way out. Suitcase by her side, she paid no heed to the light, the street or the town.A car was coming down the street and with her arm outstretched and thumb in the air, she had a plan.
+Transcribed Phrase:Thelone lamp post of the one- reet town flickered, not quite Dead but definitely otn its way out. Essuit case by her suide, she paid no heeD to the light, the street or the town.ta cr was coming edown the street and with hrrm outstret ched and thumb in the air, she haD a plan.
+Number of characters typed: 278
+Characters per second: 0.5854084
+Number of words typed: 55.6
+Words per minute: 7.0249
+Error rate: 7.5812274368231
+U Backspace T H E H Backspace Space Backspace L O N E Space L A M P H Backspace Space P O S T Space O S Backspace M Backspace M Backspace M Backspace F Space T H E Space O N E Space U L Backspace Backspace U Backspace W Backspace U Backspace Backspace U Backspace Minus H Backspace Space S T Backspace Backspace R E E T H Backspace Space T O W N Space M Backspace F L I C K E R E D A Backspace A Backspace Comma H Backspace H Backspace Space N O T Space Q U I T E H Backspace Space K H O Backspace Backspace Backspace D E A D Space B U T Space D E M Backspace M T Backspace Backspace F T Backspace T Backspace I N T Backspace I T E L U Backspace U Backspace U Backspace U Backspace U Backspace Y Space O E Backspace T N Space I T S Space Z Backspace W A Y Space O U T Space Backspace Period Space E S S U I T G Backspace Space C A S E Space B Y Space H E R Space S U T Backspace T Backspace T Backspace T Backspace I D E A Backspace Comma Space S H E Space B Backspace P A I D Space N O Space H E E D H Backspace H Backspace H Backspace Space T O Space T H E Space L I L Backspace R Backspace R Backspace G H T A Backspace Comma Space T H E Space S T R E E T Space O R Space T H E Space T O W N Space Backspace Period T A Space Space Backspace Space Backspace Space Backspace Space Backspace Space Backspace C A Backspace R H Backspace Alpha0 H Backspace Backspace Space W A S Space Space Backspace Space Backspace C O M T L Backspace Backspace I N R Backspace R Backspace R Backspace I Backspace G Space K Backspace E D O Z Backspace W N Space T H E Space S T R E E T Space A N K Backspace D Space W I T H Space H E Backspace R Space A Backspace Backspace R M Space O U T S T R E T Space Space Backspace Space Backspace Space Backspace Space Backspace C H E D Space A N M Backspace T T Backspace Backspace D Space T H U M B Space T Backspace T Backspace T Backspace T Backspace T Backspace I E Backspace N Space T H E Space A T Backspace T T Backspace Backspace I R A Backspace Comma Space S H E H Backspace Space H A D Space A Space P L A N Space Backspace Period Return 

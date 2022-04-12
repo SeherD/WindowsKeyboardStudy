@@ -1,0 +1,32 @@
+Test Phrase:the music is better than it sounds
+Transcribed Phrase:the musiec ishj better than it sounds
+Number of characters typed: 38
+Characters per second: 1.068833
+Number of words typed: 7.6
+Words per minute: 12.826
+Error rate: 8.10810810810811
+T H E Space M U S I E C Space I S H J Space B E T T E R Space T H A N Space I T Space S O U N D S Return 
+Test Phrase:I listen to the tape everyday
+Transcribed Phrase:I listen to the tabpe egveryday
+Number of characters typed: 32
+Characters per second: 1.046445
+Number of words typed: 6.4
+Words per minute: 12.55735
+Error rate: 6.45161290322581
+I LeftShift Space L I S T E N Space T O Space T H E Space T A B P E Space E G V E R Y D A Y Return 
+Test Phrase:gas bills are sent monthly
+Transcribed Phrase:gas bills are senet monthily
+Number of characters typed: 29
+Characters per second: 1.038579
+Number of words typed: 5.8
+Words per minute: 12.46295
+Error rate: 7.14285714285714
+G A S Space B I L L S Space A R E Space S E N E T Space M O N T H I L Y Return 
+Test Phrase:The computer wouldn't start. She banged on the side and tried again. Nothing. She lifted it up and dropped it to the table. Still nothing. She banged her closed fist against the top. It was at this moment she saw the irony of trying to fix the machine with violence.
+Transcribed Phrase:The computer duwouldn///////////+/++++'t 99start. sshe baaenged on lt00000she sinde and tried argain. Nohiang. She lifted it ubnnjpy and drobpnped it to the table. Stillr nothing. Oshe banged her gclosed mfist argaiNsllt lthe tonp     .h Itr ddj  jrrcmir   jjjwjas at t his momenit she sadyw the ironay of trying to fibx tlhe makiechiene with xvioleenyce.
+Number of characters typed: 357
+Characters per second: 1.054984
+Number of words typed: 71.4
+Words per minute: 12.65981
+Error rate: 26.4788732394366
+T H E Space C O M P U T E R Space D U W O U L D N L Backspace Slash L Backspace Slash L Backspace Slash L Backspace Slash L Backspace Slash L Backspace Slash L Backspace Slash L Backspace Slash L Backspace Slash L Backspace Slash L Backspace Slash L Backspace Slash Backspace Equals L Backspace Slash L Backspace Slash Backspace Equals L Backspace Slash Backspace Equals LeftShift L Backspace Slash Backspace Equals L Backspace Slash Backspace Equals RightArrow L Backspace Quote T Space Alpha9 Alpha9 S T A R T Space Backspace Period Space S S H E Space B A A E N G E D Space O N Space L T Alpha0 Alpha0 Alpha0 Alpha0 Alpha0 S H E Space S I N D E Space A N D Space T R I E D Space A R G A I N Space Backspace Period Space N O T Backspace H I A N G Space Backspace Period Space S H E Space L I F T E D Space I T Space U B N N J P Y Space A N D Space D R O B P N P E D Space I T Space T O Space T H E Space T A B L E Space Backspace Period Space S T I L L R Space N O T H I N G Space Backspace Period Space O S H E Space B A N G E D Space H E R Space G C L O S E D Space M F I S T Space A R G A I N S L L T Space L T H E Space T O N P Space Space Space Space Space Space Backspace Period H Space I T R Space D D J Space Space J R R C M I R Space Space Space J J J W J A S Space A T Space T Space H I S Space M O M E N I T Space S H E Space S A D Y W Space T H E Space I R O N A Y Space O F Space T R Y I N G Space T O Space F I B X Space T L H E Space M A K I E C H I E N E Space W I T H Space X V I O L E E N Y C E Space Backspace Period Return 

@@ -1,0 +1,32 @@
+Test Phrase:please provide your date of birth
+Transcribed Phrase:please provide your date of birth
+Number of characters typed: 34
+Characters per second: 1.251581
+Number of words typed: 6.8
+Words per minute: 15.01897
+Error rate: 0
+P L E A S E Space P R O V I D E Space Y O U R Space D A T E Space O F Space B I R T H Return 
+Test Phrase:a coupon for a free sample
+Transcribed Phrase:a coupon for a free sample
+Number of characters typed: 27
+Characters per second: 1.605289
+Number of words typed: 5.4
+Words per minute: 19.26346
+Error rate: 0
+A Space C O U P O N Space F O R Space A Space F R E E Space S A M P L E Return 
+Test Phrase:beautiful paintings in the gallery
+Transcribed Phrase:beautiful paintings in the gallery
+Number of characters typed: 35
+Characters per second: 1.635208
+Number of words typed: 7
+Words per minute: 19.6225
+Error rate: 0
+B E A U T I F U L Space P A I N T I N G S Space I N Space T H E Space G A L L E E Backspace R Y Return 
+Test Phrase:There wasn't a whole lot more that could be done. It had become a wait-and-see situation with the final results no longer in her control. That didn't stop her from trying to control the situation.She demanded that things be done as she desperately tried to control what couldn't be
+Transcribed Phrase:There wasn't a whole lot more that could be done. It had become a waut-and-see situation with the final results no longer in her control. That didn't stop her from trying to control the situation. She demanded that things be done as she desperately tried to control what couldn't be
+Number of characters typed: 283
+Characters per second: 1.382192
+Number of words typed: 56.6
+Words per minute: 16.58631
+Error rate: 0.709219858156028
+LeftShift T H E R E Space W A S M Backspace N Semicolon T Backspace Backspace Quote T Space A Space W H O L E Space L O T Space M O R E Space T H A T Space V Backspace C O U L D Space B E Space D O N E Comma Backspace Period Space RightShift I T Space H A D Space B E C O M E Space A Space W A U T Minus A N D Minus S E E Space S I T U A T Y Backspace I O N Space W I T H Space T H E Space F I N A L Space Alpha5 Backspace R E S U L T S Space N O Space L O N G E R Space I N Space H E R Space C O N T R O L Period Space RightShift T H A T Space D I D N Quote T Space S T O P Space H E R Space F R O M Space T R Y I N G Space T O Space C O N T R O L Space T H E Space S I T U A T I O N Period Space LeftShift S H E Space D E M A N D E D Space T H A T Space T H I N G S Space B E Space D S O N Backspace Backspace Backspace Backspace D O N R Backspace Alpha5 Backspace E Space A S Space S H E Space D E S P R Backspace R T Backspace Backspace E R A T E L Y Space T R I E D Space T O Space C O N Y Backspace T R O L Space W H A T Space C O U L D N Quote T Space B E Return 

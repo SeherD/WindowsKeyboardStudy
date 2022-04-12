@@ -1,0 +1,24 @@
+Test Phrase:it should be sunny tomorrow
+Transcribed Phrase:th should be sunny tomorow
+Number of characters typed: 79
+Characters per second: 0.9962777
+Number of words typed: 15.8
+Words per minute: 11.95533
+Error rate: 11.1111111111111
+JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 I JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 H H Backspace Backspace Backspace T H Space S H O U L D Space B E Space S U N N Y Space T O M O R Backspace R O W Return 
+Test Phrase:love means many things
+Transcribed Phrase:lon
+Number of characters typed: 4
+Characters per second: 1.384734
+Number of words typed: 0.8
+Words per minute: 16.61681
+Error rate: 86.3636363636364
+L O N Return 
+Test Phrase:head shoulders knees and toes
+Transcribed Phrase:heakd shoulder9 knees aend toes
+Number of characters typed: 32
+Characters per second: 0.9364121
+Number of words typed: 6.4
+Words per minute: 11.23695
+Error rate: 9.67741935483871
+H E A K D Space S H O U L D E R Alpha9 S Backspace Space K N E E S Space A E N D Space T O E S Return 

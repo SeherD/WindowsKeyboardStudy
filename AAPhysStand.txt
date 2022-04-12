@@ -1,0 +1,32 @@
+Test Phrase:careless driving results in a fine
+Transcribed Phrase:careless driving results in a fine\
+Number of characters typed: 42
+Characters per second: 0.5409567
+Number of words typed: 8.4
+Words per minute: 6.49148
+Error rate: 2.85714285714286
+C A R E J Backspace L E S S Space D R I V Y Backspace U B Backspace Backspace I B Backspace N G Space R E S I Backspace H Backspace U K Backspace Backspace L Backspace U Period Backspace L T DownArrow S DownArrow Space I DownArrow N Space A DownArrow Space DownArrow F DownArrow I N E Backslash Return 
+Test Phrase:buckle up for safety
+Transcribed Phrase:bucle up for safety
+Number of characters typed: 20
+Characters per second: 0.720999
+Number of words typed: 4
+Words per minute: 8.651988
+Error rate: 5
+B U V Backspace B Backspace C Semicolon Backspace L E Space U P Space G Backspace F O T Backspace R Space S A F E R Backspace T Y Return 
+Test Phrase:granite is the hardest of all rocks
+Transcribed Phrase:granite is the hardest of all rocks
+Number of characters typed: 36
+Characters per second: 0.7764493
+Number of words typed: 7.2
+Words per minute: 9.317391
+Error rate: 0
+H Backspace G R A N I Y Backspace T R Backspace E Space I D Backspace D Backspace S Space T H E Space H A R D E S T Space P H Backspace Backspace O G Backspace H Backspace F Space S Backspace A L L Space T O Backspace Backspace R O V Backspace C K D Backspace S Return 
+Test Phrase:There wasn't a whole lot more that could be done. It had become a wait-and-see situation with the final results no longer in her control. That didn't stop her from trying to control the situation.She demanded that things be done as she desperately tried to control what couldn't be
+Transcribed Phrase:There wasn't a whole lot more that could be done. It had become a wait-and-see situation with the final results no longer in her bontrol. That didn
+Number of characters typed: 148
+Characters per second: 0.9105876
+Number of words typed: 29.6
+Words per minute: 10.92705
+Error rate: 48.0427046263345
+RightShift T H R T Backspace Backspace T Y T Backspace Backspace Backspace E R E Space W A S N Quote T Y Backspace Space S Space Backspace Backspace A Space W H I Backspace P Backspace Alpha0 Backspace O L R Backspace T Backspace R Backspace F Backspace E Space L O Y Backspace T Space M O Y Backspace T R Backspace Backspace R E Space T H S Backspace A R Backspace T Space C O I Backspace U L F Backspace D Space B E Space D O N R Period Backspace Backspace E Period Space RightShift O Backspace RightShift I Y Backspace R T Backspace Backspace R Backspace R Backspace T Space H A D Space B E C O M E Space A Space W A I T Minus A N D Minus S E E Space S I T Y Backspace U S A Backspace Backspace A T I O N Space E Backspace W I T H Space T G Backspace H R Backspace E Space G Backspace F I N S Backspace A Semicolon Backspace L Space R E S U L T S Space N O Space L O N G R T Backspace Backspace E R Space I N Space H R Backspace R Backspace E R Space V O Backspace Backspace B P M Backspace Backspace O N Y Backspace T R O L L Backspace Period Space RightShift RightShift T J Backspace J K Backspace Backspace J Backspace H A T Space F Backspace D I D N Return 

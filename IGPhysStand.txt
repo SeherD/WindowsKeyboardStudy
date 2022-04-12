@@ -1,0 +1,32 @@
+Test Phrase:no exchange without a bill
+Transcribed Phrase:no exchange without a bill
+Number of characters typed: 55
+Characters per second: 1.813948
+Number of words typed: 11
+Words per minute: 21.76737
+Error rate: 0
+JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 N O Space R C Backspace Backspace T Backspace T Backspace E X C H S Backspace A N E Space Backspace Backspace H Backspace G R Backspace E Space W I T H P Backspace O U T Space S Space Backspace Backspace A Space B I L L Return 
+Test Phrase:do not lie in court or else
+Transcribed Phrase:do not lie in court or else
+Number of characters typed: 28
+Characters per second: 1.849558
+Number of words typed: 5.6
+Words per minute: 22.19469
+Error rate: 0
+D O Space N O T Space Semicolon Backspace L I R Backspace E Space I N Space C O U R T Space P Backspace O R Space E L S E Return 
+Test Phrase:limited warranty of two years
+Transcribed Phrase:limited warranty of two years
+Number of characters typed: 30
+Characters per second: 2.142924
+Number of words typed: 6
+Words per minute: 25.71508
+Error rate: 0
+L I M I T E D Space W A R R A M Backspace N T Y Space O F Space Y Backspace T W O Space Y E A S Backspace R S Return 
+Test Phrase:Dragons don't exist, they said. They are the stuff of legend and people's imagination. Greg would have agreed with this assessment without a second thought 24 hours ago. But now that there was a dragon staring directly into his eyes, he questioned everything that he had been told.
+Transcribed Phrase:Dragons don
+Number of characters typed: 12
+Characters per second: 1.103816
+Number of words typed: 2.4
+Words per minute: 13.24579
+Error rate: 96.085409252669
+LeftShift D R A H Backspace Backspace G O N S Space D Backspace Backspace Backspace Backspace Backspace Backspace A G O N S Space D I Backspace O N Return 

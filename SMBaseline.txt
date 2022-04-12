@@ -1,0 +1,24 @@
+Test Phrase:watch out for low flying objects
+Transcribed Phrase:watch out for low flying objects
+Number of characters typed: 33
+Characters per second: 4.31
+Number of words typed: 6.6
+Words per minute: 51.72001
+Error rate: 0
+W A T C H Space O U T Space F O R Space L O W Space F L Y I N G Space O B J E C T S Quote Backspace Return 
+Test Phrase:the four seasons will come
+Transcribed Phrase:the four seasons will come
+Number of characters typed: 27
+Characters per second: 4.361655
+Number of words typed: 5.4
+Words per minute: 52.33986
+Error rate: 0
+T H E Space F O U R Space S E A S O N S Space W U Backspace I L L Space C O M E Return 
+Test Phrase:Dragons don't exist, they said. They are the stuff of legend and people's imagination. Greg would have agreed with this assessment without a second thought 24 hours ago. But now that there was a dragon staring directly into his eyes, he questioned everything that he had been told.
+Transcribed Phrase:Dragons don't exist, they said. They are the legend and people's imagination. Greg would have agreed with this assessment without a second thought 24 hours ago. But now that there was a dragon staring directly into his eyes, he questioned everything that he had been told.
+Number of characters typed: 272
+Characters per second: 3.158158
+Number of words typed: 54.4
+Words per minute: 37.8979
+Error rate: 3.20284697508897
+LeftShift D R A G O N S Space D O N Semicolon T Backspace Backspace Quote T Space E X I S T Comma Space T H E Y Space S A I D Period Space LeftShift T H E Y Space A R E Space T H E Space L E G E N D S Backspace A N D Space P E O P L E Quote S Space I M A A Backspace G I N A T I O N Period Space LeftShift G R E G Space W O U L D Space H A V E Space A G R E E D Space W I T H Space T H I S Space A S S E S S M E N T Space W I T H O U T Space A Space S E C O N D Space T H O U G H T Space Alpha2 Alpha4 Space A Backspace H O U R S A Space A Backspace Backspace Backspace Space A G O Space Backspace Period Space LeftShift B U T Space N O W Space T H A T Space T H E R E Space W A S Space A Space D Backspace LeftShift D Backspace D R A G O N Space S T R Backspace A R I N G Space D I R E C T L Y Space I N T O Space H I S Space E Y E S Comma Space H E Space Q U E S T I O N E D Space E V E R Y T H I N G Space T H A T Space H E Space H A D Space B E E N Space T O L D Period Return 

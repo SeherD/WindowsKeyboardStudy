@@ -1,0 +1,24 @@
+Test Phrase:the rationale behind the decision
+Transcribed Phrase:the rationale behind the decision
+Number of characters typed: 36
+Characters per second: 1.459589
+Number of words typed: 7.2
+Words per minute: 17.51507
+Error rate: 0
+LeftCommand LeftCommand T H E Space R A T O P Backspace Backspace I O N A L E Space B R Backslash Backspace Backspace E H I N D Space Y Backspace T H E Space D E C I S I O N Return 
+Test Phrase:gamblers eventually loose their shirts
+Transcribed Phrase:gamblers eventually loose their shirts
+Number of characters typed: 39
+Characters per second: 1.678431
+Number of words typed: 7.8
+Words per minute: 20.14117
+Error rate: 0
+G A M B K Backspace L E R S Space E V E N T U A L L Y Space L O O S E Space T H I Backspace E I R Space S H I R T S W Backspace Backspace S Return 
+Test Phrase:starlight and dewdrop
+Transcribed Phrase:starlight and dewdrops
+Number of characters typed: 23
+Characters per second: 2.619201
+Number of words typed: 4.6
+Words per minute: 31.43041
+Error rate: 4.54545454545455
+S T A R L I G H T Space A N D Space D E W D R O P S Return 

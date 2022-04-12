@@ -1,0 +1,32 @@
+3Test Phrase:an enlarged nose suggests you are a liar
+Transcribed Phrase:an enlargedr nose sugges777ts wyou arie a liar
+Number of characters typed: 47
+Characters per second: 0.9061457
+Number of words typed: 9.4
+Words per minute: 10.87375
+Error rate: 13.0434782608696
+A N Space E N L A R G E D R Space N O S E Space S U G G E S Alpha7 Alpha7 Alpha7 T S Space W Y O U Space A R I E Space A Space L I A R Return 
+Test Phrase:arguing with the boss is futile
+Transcribed Phrase:arguinhg  ezz   with the bosus is rrrfzutile
+Number of characters typed: 45
+Characters per second: 0.9211985
+Number of words typed: 9
+Words per minute: 11.05438
+Error rate: 29.5454545454545
+A R G U I N H G Space Space E Z Z Space Space Space W I T H Space T H E Space B O S U S Space I S Space R R R F Z U T I L E Return 
+Test Phrase:exercise is good for the mind
+Transcribed Phrase:ehqxer cise is good rrrr rrffllioar thne mind
+Number of characters typed: 46
+Characters per second: 1.076108
+Number of words typed: 9.2
+Words per minute: 12.9133
+Error rate: 35.5555555555556
+E H Q X E R Space C I S E Space I S Space G O O D Space R R R R Space R R F F L L I O A R Space T H N E Space M I N D Return 
+Test Phrase:The day had begun on a bright note. The sun finally peeked through the rain for the first time in a week, and the birds were singing in its warmth. There was no way to anticipate what was about to happen. It was a worst -case scenario and there was no way out of it.
+Transcribed Phrase:The day had ebegun on a briht note. The szun finally peeked thrlough t he rain fsorthe rrfirst time in a jweek, anyd thec birkduuus c j j j   rj jj cj. wcere singinag in its c jwjarhmth aa  .kk There zqWa99us nlo c w,awy to anticipate  cwhat gqj    wwas nyabout to ha jbjnpnnpneN. It wasr a jworst -cause scenadrio andlthere zwas no  j c  jya v
+Number of characters typed: 345
+Characters per second: 1.124332
+Number of words typed: 69
+Words per minute: 13.49198
+Error rate: 29.0697674418605
+T H E Space D A Y Space H A D Space E B E G U N Space O N Space A Space B R I G Backspace H T Space N O T E Space Backspace Period Space T H E Space S Z U N Space F I N A L L Y Space P E E K E D Space T H R L O U G H Space T Space H E Space R A I N Space F S O R Space Backspace T H E Space R R F I R S T Space T I M E Space I N Space A Space J W E E K A Backspace Comma Space A N Y D Space T H E C Space B I R K D U U U S Space C Space J Space J Space J Space Space Space R J Space J J Space C J Space Backspace Period Space W C E R E Space S I N G I N A G Space I N Space I T S Space C Space J W J A R H M T H Space A A Space Space Space Backspace Period K K Space T H E R E Space Z Q W LeftShift A Alpha9 Alpha9 U S Space N L O Space C Space W A Backspace Comma A W Y Space T O Space A N T I C I P A T E Space Space C W H A T Space G Q J Space Space Space Space W W A S Space N Y A B O U T Space T O Space H A Space J B J N P N N P N E N Space Backspace Period Space I T Space W A S R Space A Space J W O R S T Space U Backspace Minus C A U S E Space S C E N A D R I O Space A N D Space Backspace L T H E R E Space Z W A S Space N O Space Space J Space C Space Space J Y A Space V Return 

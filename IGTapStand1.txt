@@ -1,0 +1,32 @@
+Test Phrase:my bare face in the wind
+Transcribed Phrase:m
+Number of characters typed: 2
+Characters per second: 0.9753597
+Number of words typed: 0.4
+Words per minute: 11.70432
+Error rate: 95.8333333333333
+M Return 
+Test Phrase:thank you for your help
+Transcribed Phrase:t
+Number of characters typed: 2
+Characters per second: 1.894094
+Number of words typed: 0.4
+Words per minute: 22.72913
+Error rate: 95.6521739130435
+T Return 
+Test Phrase:do you like to shop on Sunday
+Transcribed Phrase:d
+Number of characters typed: 2
+Characters per second: 1.653495
+Number of words typed: 0.4
+Words per minute: 19.84194
+Error rate: 96.551724137931
+D Return 
+Test Phrase:The day had begun on a bright note. The sun finally peeked through the rain for the first time in a week, and the birds were singing in its warmth. There was no way to anticipate what was about to happen. It was a worst -case scenario and there was no way out of it.
+Transcribed Phrase:T
+Number of characters typed: 2
+Characters per second: 1.97841
+Number of words typed: 0.4
+Words per minute: 23.74092
+Error rate: 99.6240601503759
+T Return 

@@ -1,0 +1,24 @@
+Test Phrase:all together in one big pile
+Transcribed Phrase:all together in one big pile
+Number of characters typed: 96
+Characters per second: 6.267096
+Number of words typed: 19.2
+Words per minute: 75.20515
+Error rate: 0
+JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 LeftArrow A L L Space T O G E T H E R Space I N Space O N E Space B I G Space P I L R Backspace E Return 
+Test Phrase:Valium in the economy size
+Transcribed Phrase:Valium in the economy size
+Number of characters typed: 27
+Characters per second: 1.225782
+Number of words typed: 5.4
+Words per minute: 14.70938
+Error rate: 0
+LeftShift V A L Alpha8 Alpha9 Backspace Backspace I U M Space I N Space T H E R Backspace Space E C V Backspace O N O Comma M Backspace U Backspace Y Space S I Z Alpha3 E Backspace Return 
+Test Phrase:I will meet you at noon
+Transcribed Phrase:I will meet you at noon
+Number of characters typed: 24
+Characters per second: 1.23939
+Number of words typed: 4.8
+Words per minute: 14.87269
+Error rate: 0
+LeftShift I Space W I L L Space K E Backspace Backspace M E E T Space Y P I Backspace Backspace O I Backspace U Space S Backspace A Y Backspace R Backspace T Space M Backspace N O O N Return 

@@ -1,0 +1,24 @@
+Test Phrase:see you later alligator
+Transcribed Phrase:see you later alligator
+Number of characters typed: 24
+Characters per second: 1.067633
+Number of words typed: 4.8
+Words per minute: 12.81159
+Error rate: 0
+S E E Backspace Alpha1 Backspace E Space Y O U Space L A T E R Space A L L I G A T O R Return 
+Test Phrase:the early bird gets the worm
+Transcribed Phrase:the early bird gets the worm
+Number of characters typed: 29
+Characters per second: 0.594178
+Number of words typed: 5.8
+Words per minute: 7.130136
+Error rate: 0
+T H E Space E A R O Backspace L Y Space B I R D Space G E T S Space T Backspace H E Space Backspace Backspace Backspace T H E Space A Backspace W O R M Return 
+Test Phrase:raindrops keep falling on my head
+Transcribed Phrase:raindrops keep falling on my head
+Number of characters typed: 34
+Characters per second: 0.8406433
+Number of words typed: 6.8
+Words per minute: 10.08772
+Error rate: 0
+R A I N D R O P S Space K E E P Space F A L L I N G Space O N Space M Y Space Backspace Space H E A D Return 

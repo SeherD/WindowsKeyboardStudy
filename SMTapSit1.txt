@@ -1,0 +1,32 @@
+Test Phrase:just like it says on the can
+Transcribed Phrase:just like it says on the can
+Number of characters typed: 29
+Characters per second: 0.2786706
+Number of words typed: 5.8
+Words per minute: 3.344047
+Error rate: 0
+Space H H T Backspace Backspace Backspace Backspace Space H Backspace Backspace J S Backspace S Backspace U U Backspace U Backspace S Backspace S Backspace S T G Backspace H Backspace Space I Backspace I Backspace L L T Backspace Backspace I K E H Backspace Space L Backspace L L Backspace Backspace L Backspace I T Space S A U Backspace Y S Space L Backspace L Backspace L L L Backspace Backspace Backspace O N Space Backspace Space Backspace Space Backspace Space M Backspace T H E Space C A N Return 
+Test Phrase:the early bird gets the worm
+Transcribed Phrase:the early birD gets the woRm
+Number of characters typed: 29
+Characters per second: 0.1802209
+Number of words typed: 5.8
+Words per minute: 2.162651
+Error rate: 7.14285714285714
+T H E Space E A R L Y Space B Backspace B L Backspace L Backspace L Backspace L Backspace L Backspace L Backspace L Backspace L Backspace L Backspace L Backspace L Backspace L T Backspace Backspace L Backspace L Backspace L Backspace H Backspace Space Space Backspace Backspace H R Backspace H Backspace Backspace Backspace B L Backspace L Backspace L Backspace I F Backspace R R Backspace G L Backspace Backspace R Backspace Backspace R D Backspace R Backspace D Space G E Backspace E T S Space Backspace Space M L Backspace Backspace H Backspace Backspace R Backspace Space H Backspace Backspace Backspace S Space Backspace Space T H E Space W L T Backspace Backspace O R M N Backspace Return 
+Test Phrase:wear a crown with many jewels
+Transcribed Phrase:w
+Number of characters typed: 2
+Characters per second: 4.000732
+Number of words typed: 0.4
+Words per minute: 48.00879
+Error rate: 96.551724137931
+W Return 
+Test Phrase:Dragons don't exist, they said. They are the stuff of legend and people's imagination. Greg would have agreed with this assessment without a second thought 24 hours ago. But now that there was a dragon staring directly into his eyes, he questioned everything that he had been told.
+Transcribed Phrase:Dragons don't exist, they said. They are the stuff of legend and people's imagination. Greg would have agreed with this assessment without a second thought 24 houRs ago. But now that there was a dragon staring directly into his eyes, he questioned everything that he had been told.a
+Number of characters typed: 283
+Characters per second: 0.3510351
+Number of words typed: 56.6
+Words per minute: 4.212421
+Error rate: 0.709219858156028
+R Backspace G D Backspace Backspace N Backspace D R A G L Backspace O N S Space D L Backspace Alpha8 Backspace O A Backspace N L Backspace Quote T Space A Backspace T Backspace E X G Backspace L Backspace L Backspace L R R Backspace Backspace Backspace Space Backspace L Backspace L Backspace L Backspace L Backspace Space Backspace Space Backspace H Backspace I S Backspace S Backspace S Backspace S Backspace S Backspace S Backspace S Backspace S Backspace S T A Backspace A Backspace Comma H Backspace Space T H E Y Space A Backspace S A L Backspace Backspace A Space Backspace L Backspace Backspace A L Backspace L R Backspace M M Backspace L Backspace Backspace Backspace Backspace A L Backspace Backspace A L Backspace Backspace A Backspace A M Backspace L Backspace I Backspace Slash Backspace I G Backspace R Backspace D Space Backspace Period Space R Backspace R Backspace T H A Backspace E Y Space A R E R R Backspace Backspace Space T H E Space S T U R Backspace F R Backspace F Space O F V A R Backspace Backspace Backspace Space L E L Backspace G T Backspace E N G Backspace G L Backspace Backspace G Backspace D Backspace G Backspace G L L Backspace Backspace Backspace G Backspace D Space A N D Space P E O P L E L Backspace Quote Z Backspace S Space L L Backspace Backspace L Backspace L Backspace L T I Backspace Backspace Backspace L T T Backspace Backspace Backspace L Backspace I M A L Backspace K Backspace G L Backspace I N A Backspace A T L Backspace I O N P Space Backspace Backspace J Space Backspace Backspace J Space Backspace Backspace Space Backspace Period Space G R E R Backspace G Space Y Backspace Y T Backspace Backspace Y T I M Backspace T I Backspace Backspace T Backspace Backspace Backspace Backspace W O U L D Space H A P Backspace V E Space A G R R Backspace E E G Backspace G Backspace D Space W L Backspace Backspace W L Backspace L Backspace L Backspace L Backspace I T H Space T H H T Backspace T T Backspace T Backspace Backspace Backspace I S Space A S S E S S M E N T Space W Y T Backspace Backspace I Backspace I Backspace L Backspace K Backspace I T H O U T Space A C Backspace Space S E C L Backspace O N D H Backspace Space T H O U D L D Backspace Backspace Backspace G H T Space E E Backspace Backspace E Backspace Alpha2 Alpha8 Backspace Alpha4 Alpha5 Space Backspace Tab Backspace Alpha7 Backspace Backspace Space H O S Backspace S Backspace S Backspace S Backspace U A Backspace R S Space A A Backspace G L Backspace S Backspace S L Backspace Backspace S Backspace O Space Backspace Period Space R Backspace N Backspace R Backspace Backspace Space N Backspace B LeftShift U T Space N L Backspace L Backspace O W Y Backspace Space Backspace Backspace W Backspace Y Backspace W Space T Alpha8 Backspace H A T Space T H E R E Space W A S Space A Space D R A G L Backspace O N J Backspace Space S T A R Backspace R L Backspace I A Backspace N G Space A Backspace A G Backspace Backspace D I R E C T L Y Space L Backspace L Backspace L Backspace I N T O Space H L Backspace T Backspace Backspace B T Backspace Backspace H Backspace H Backspace H L Backspace I S Space E Y E S A Backspace A Backspace Comma J Backspace Space H E Space A T Backspace Backspace T T Q Backspace Backspace T Backspace Backspace Q S Backspace U E S Backspace S Backspace S Backspace S R Backspace T I S Backspace O N E D J Backspace Space E P N Backspace Backspace P I Backspace Backspace V E R Y T H I N G Space T H A T Space H E Space H A G Backspace A Backspace D Space B E E N Space Backspace Backspace Backspace E N Space T S Backspace L Backspace O L D Space Backspace Period A Return 

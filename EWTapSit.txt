@@ -1,0 +1,32 @@
+Test Phrase:elephants are afraid of mice
+Transcribed Phrase:elephaNs ahre afraid of mice
+Number of characters typed: 49
+Characters per second: 0.8382423
+Number of words typed: 9.8
+Words per minute: 10.05891
+Error rate: 10.7142857142857
+JoystickButton5 Joystick2Button5 JoystickButton5 Joystick2Button5 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 E L E P H A N T Backspace S Space A H R E Space A F R A I D Space L L Backspace Backspace O F Space M I C E Return 
+Test Phrase:our life expectancy has increased
+Transcribed Phrase:our life exupectancyu has increased
+Number of characters typed: 36
+Characters per second: 0.5935299
+Number of words typed: 7.2
+Words per minute: 7.122359
+Error rate: 5.71428571428571
+O U R Space L I N Backspace F E Space E B Backspace S Backspace X U P E C T A N P Backspace C Y U Space H A Alpha9 Backspace S Space I N C R E A S E D Return 
+Test Phrase:I am going to a music lesson
+Transcribed Phrase:I am ging to a music lesson
+Number of characters typed: 28
+Characters per second: 0.5097829
+Number of words typed: 5.6
+Words per minute: 6.117395
+Error rate: 3.57142857142857
+L Backspace I Space A M Space G U O Backspace Backspace I N G Space T L L L L Backspace Backspace Backspace Backspace O Space A Space M U S I C Space L E S S L L L Backspace Backspace Backspace L Backspace L Backspace O N Return 
+Test Phrase:Trees.It was something about the trees. The way they swayed with the wind in unison.The way they shaded the area around them. The sounds of their leaves in the wind and the creaks from the branches as they sway, the trees were making a statement that I just couldn't understand.
+Transcribed Phrase:Trees.t was somethinlg about the etreesv. He weaay theyh sywayed with ethe wind in uanisoen .The weay theay shaded eHe area arount hem. The osounds of etheiR leamves in the cwlind anAd the creaksh mfrom the eboranchteluuyaos as they asyugj  uyucwoauya, the treen were making a statemteunt tt I hvabulaojustr gcllouldne uanderstand.
+Number of characters typed: 332
+Characters per second: 0.6037939
+Number of words typed: 66.4
+Words per minute: 7.245527
+Error rate: 21.7522658610272
+T R E E S Space Backspace Period I Backspace T Space W A S Space Alpha5 Backspace S O M E T H I N L G Space A B L L Backspace Backspace L Backspace O U T Space T H E Space E T R E E S V Space Backspace Space Backspace Period Space T Backspace H E Space C Backspace W E A A Y Space T H E Y H Space S Y W A Y E D Space W I T H Space E T H E Space W I N D Space I N H Backspace Space U A N I S O E N Space R Backspace Space Backspace Period T H E H Backspace Space W E A Y Space T X Backspace H E A Y Space Alpha9 Backspace S H A D E D V Backspace Space E T Backspace H E Space A R E A Space A R O U N D Space Backspace Backspace T Space H E M Space R M Backspace Backspace Backspace Space Backspace Period Space T H E T Backspace Space Alpha5 Backspace O S O U N D S Space L Backspace L Space L A Backspace Backspace Backspace R N Backspace Backspace Backspace O F Space E T H E I R Space L E A M F X F Backspace Backspace Backspace V E S Space I N Space T H E Space Z A C Backspace Backspace Backspace C W L I N D Space A N A D Space T H E Space C R E A K S H Space M F R L Backspace L Backspace O M Space T H E Space E B O R A N C H T E L T M Backspace Backspace Backspace L Alpha5 Backspace U U Y A O S Space A Alpha9 R Backspace Backspace S Space T H E Y A Backspace Space A S C C Backspace Backspace Z Backspace A J Backspace Backspace A R E Backspace Backspace R Backspace Backspace Y U G J Space Space C U C Backspace Semicolon U A C U J J Backspace Backspace Backspace Backspace Backspace Backspace M Backspace Backspace Backspace Backspace U Y U C W O A U Y A A Backspace Comma Space T H E Space T R E E S Backspace N Space W E R E Space M A K I N G Space A Space S L Backspace T A L Backspace T E M T E U N E Backspace E Backspace T Space T H A E Backspace E Backspace Backspace A A Backspace Backspace Backspace T Space I Space H V A B U L A O I A U N Backspace M Backspace Backspace Backspace Backspace T Backspace Quote E T Backspace Backspace Backspace J U S T R Space G C L L O U L I A T Backspace Backspace Backspace D N L Backspace Quote Backspace E T Backspace Space U A N D E R S T A N D Space Backspace Period Return 

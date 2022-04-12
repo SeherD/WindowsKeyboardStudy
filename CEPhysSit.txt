@@ -1,0 +1,32 @@
+Test Phrase:is there any indication of this
+Transcribed Phrase:is there any indication of this
+Number of characters typed: 32
+Characters per second: 3.025733
+Number of words typed: 6.4
+Words per minute: 36.3088
+Error rate: 0
+I A Space Backspace Equals Backspace Backspace A Space Backspace Backspace S Space T H E R E Space A N Y Space I N D I C A T I O N Space O F Space T H I S Quote Backspace Return 
+Test Phrase:traveling to conferences is fun
+Transcribed Phrase:traveling to conferences is fun
+Number of characters typed: 32
+Characters per second: 2.916131
+Number of words typed: 6.4
+Words per minute: 34.99358
+Error rate: 0
+T R A B E Backspace Backspace V E L I N G Space T O Space C O N F E R E N C E S Space O S Backspace Backspace I S Space D F Backspace I U M Backspace Backspace N Return 
+Test Phrase:the assignment is due today
+Transcribed Phrase:the assignment is due today
+Number of characters typed: 28
+Characters per second: 1.662431
+Number of words typed: 5.6
+Words per minute: 19.94917
+Error rate: 0
+T H E Space A S S I F N E M Backspace Backspace Backspace Backspace H Backspace G N M E N T Space I S Space D I E Backspace Backspace I U E Backspace Backspace E Space R T Backspace T Backspace Backspace T P D Backspace Backspace O D A U Backspace U Backspace Y Return 
+Test Phrase:"Begin today!" That's all the note said. There was no indication from where it came or who may have written it. Had it been meant for someone else? Meghan looked around the room, but nobody made eye contact back. For a brief moment, she thought it might be a message for her to follow her dreams, but ultimately decided it was easier to ignore it as she crumpled it up and threw it away.
+Transcribed Phrase:"Begin today!" That's all the note said. There was no indication from where it came or who may have written it, Had it been meant for someone else? Meghan looked around the room, but nobody made eye contact back, For a brief moment, she thought it might be a message for her to follow her dreams, but ultimately decided it was easier to ignore it as she crumpled it up and threw it away.
+Number of characters typed: 394
+Characters per second: 1.895748
+Number of words typed: 78.8
+Words per minute: 22.74898
+Error rate: 0.516795865633075
+RightShift Semicolon Backspace RightShift RightControl Return RightShift Quote RightShift RightShift LeftBracket JoystickButton15 Joystick2Button15 RightShift Quote LeftBracket Backspace Backspace RightShift Quote LeftShift M Backspace LeftShift N Backspace LeftShift Comma M N B N B Backspace Backspace Backspace Backspace Backspace Backspace Backspace LeftShift Quote N Backspace B E J O M Space Backspace Backspace Backspace Backspace Backspace E G O M Backspace Backspace O P M Backspace Backspace Backspace O M Backspace Backspace I O M Backspace Backspace M Space Backspace Backspace Comma Backspace M N Backspace Backspace N Space T P D Backspace Backspace Backspace P Backspace T P Backspace P Backspace O D A U Backspace Y U Backspace RightShift Slash Backspace RightShift Period Backspace RightShift Alpha1 RightShift Quote Space LeftShift Y Backspace LeftShift Y Backspace LeftShift I U Y T Backspace Backspace Backspace Backspace LeftShift T H A T S Backspace Semicolon Backspace Semicolon Backspace L Backspace Semicolon Quote Backspace Backspace Quote S Space A Semicolon Semicolon Backspace Backspace L L Space R J E Space Backspace Backspace Backspace Backspace T J E Backspace Backspace H E Space M O P T Backspace Backspace Backspace Backspace Backspace N Space Backspace Equals Backspace Backspace Space N O T E Space S A I D Period Space LeftShift Y J E Backspace Backspace Backspace LeftShift T J E R E Space Backspace Backspace Backspace Backspace Backspace H E R Space Backspace E Space W A S Space M P Space Backspace Backspace Backspace N O Space O N Backspace Backspace I N D I C X Backspace X Backspace A R I O N Space Backspace Backspace Backspace Backspace Backspace R Backspace Equals T Backspace Backspace T I O B N Space Backspace Backspace Backspace N Space F R Backspace R P Comma Space Backspace Backspace Backspace P Comma Backspace Backspace P Comma Backspace Backspace O M Space W H J E Backspace Backspace Backspace J E R Backspace Backspace Backspace H E R Space Backspace E Space O T Backspace Backspace I T Space C A M E Space O F Space Backspace Backspace R Space W H O Space M A Y Space H A V E Space W R I T T E N Space I T Comma Space LeftShift H A D Space I R Backspace T Space B E E J Backspace M N Space Backspace Backspace Backspace M Backspace N B Backspace Space M W A Backspace Backspace E A N T Space F O R Space S O M E O N E Space E L S E RightShift Slash Space LeftShift Comma M Backspace E G A Backspace H A M N Backspace Backspace N Space L O O K E D Space A R O U N D Space T H E Space R O O M Period Space Backspace Backspace Comma Space B U T Space N O V O Backspace Backspace V Backspace B O D U Space Backspace Backspace Y Space M A D E Space E Y E Space C O N T A C T Space B A C K M Space Backspace Backspace Backspace K Comma Space LeftShift F O R Space A Space B R E Backspace Backspace I Backspace R I O Backspace E F Space M O M E N T Comma Space S H E E Backspace Space T H P U Backspace Backspace I O U Backspace Backspace Backspace O I U G H N Space T Backspace Backspace Backspace Backspace Backspace Backspace G H T Space I T Space M I U G H T Space Backspace Backspace Backspace Backspace Backspace G H T Space B E Space A Space M E A S Backspace Backspace S S A G E Space F O R Space H E R Space T O Space F O L L O W Space H E R Space D R E A Comma M S Space Backspace Backspace Backspace S Space Backspace Comma Space B U T Space U L T I M A T E L Y Space D E V Backspace V Backspace X Backspace C I D E D Space I T Space W A S Space E A S I E R Space T O Space I F D Backspace G Backspace Backspace G N O R E Space I T Space A S Space S H E Space C R I M Backspace Backspace Backspace R U M P L E D Space I T Space U P Space A N D Space T H R E W Backspace Backspace E W Space I T Space A W A Y Slash Backspace Period Return 

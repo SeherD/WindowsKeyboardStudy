@@ -1,0 +1,32 @@
+Test Phrase:the first time he tried to swim
+Transcribed Phrase:the first time he tried to swim
+Number of characters typed: 32
+Characters per second: 6.764719
+Number of words typed: 6.4
+Words per minute: 81.17663
+Error rate: 0
+T H E Space F I R S T Space T I M E Space H E Space T R I E D Space T O Space S W I N Backspace M Return 
+Test Phrase:do not walk too quickly
+Transcribed Phrase:do not walk too quickly
+Number of characters typed: 24
+Characters per second: 8.872818
+Number of words typed: 4.8
+Words per minute: 106.4738
+Error rate: 0
+D O Space N O T Space W A L K Space T O O Space Q U I C K L Y Return 
+Test Phrase:an injustice is committed every day
+Transcribed Phrase:an injustice is committed every day
+Number of characters typed: 36
+Characters per second: 5.584651
+Number of words typed: 7.2
+Words per minute: 67.01582
+Error rate: 0
+A N Space I N U S Backspace Backspace J U T Backspace S T I C E Space I S Space O Backspace C O M M I T T E D Space E V E R Y Space D A Y Return 
+Test Phrase:The choice was red, green, or blue. It didn't seem like an important choice when he was making it, but it was a choice nonetheless. Had he known the consequences at that time, he would likely have considered the choice a bit longer. In the end, he didn't and ended up choosing blue.
+Transcribed Phrase:The choice was red, green, or blue. It didn't seem like an important choice when he was making it, but it was a choice nonetheless. Had he known the consequences at that time, he would likely have considered the choice a bit longer. In the end, he didn't and ended up choosing blue.
+Number of characters typed: 283
+Characters per second: 7.426894
+Number of words typed: 56.6
+Words per minute: 89.12273
+Error rate: 0
+LeftShift T H E Space C H O I C E Space W A S Space E R D Comma Space G E R E N Comma Space Backspace Backspace Backspace Backspace Backspace Backspace R E E N Comma Space O R Space B L U E Period Space LeftShift I O Backspace LeftShift T Space D I D N Quote T Space S E E M Space L I K E Space A N Space I Backspace M Backspace I M P O R T A N T Space C H O I C E Space W H E N Space H E Space W A S Space M A K I N G Space I T Comma Space B U T Space I T Space W A S Space A Space C H O I C E Space N O N E T H E L E S S Period Space LeftShift H A D Space H E Space K N O W N Space T H E Space C O N S E Q U E N C E S Space A T Space T H A T Space T I M E Comma Space H E Space W O U L D Space L I K E L Y Space H A V E Space C O N S I D E R E D Space T H E Space C H O I C E Space A Space B I T Space L O N G E R Period Space LeftShift I N Space T H E Space E N D Comma Space H E Space D I D N Quote T Space A N D Space E N D E D Space U P Space C H O O S I N G Space B L U E Period Return 

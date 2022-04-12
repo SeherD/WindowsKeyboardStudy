@@ -1,0 +1,24 @@
+Test Phrase:you want to eat your cake
+Transcribed Phrase:you want to eat your cake
+Number of characters typed: 26
+Characters per second: 4.416518
+Number of words typed: 5.2
+Words per minute: 52.99821
+Error rate: 0
+Y O U Space W A N T Space T O Space E W A Backspace Backspace Backspace E A T Space Y O U R Space C A K E Return 
+Test Phrase:make up a few more phrases
+Transcribed Phrase:make up a few more phrases
+Number of characters typed: 27
+Characters per second: 5.444462
+Number of words typed: 5.4
+Words per minute: 65.33355
+Error rate: 0
+M A K E Space U P Space A Space F E W Space M O R E Space P H R A S E S Return 
+Test Phrase:The day had begun on a bright note. The sun finally peeked through the rain for the first time in a week, and the birds were singing in its warmth. There was no way to anticipate what was about to happen. It was a worst -case scenario and there was no way out of it.
+Transcribed Phrase:The day had begun on a bright note. The sun finally peeked through the rain for the first time in a week, and the birds were singing in its warmth. There was no way to anticipate what was about to happen. It was a worst -case scenario and there was no way of it.
+Number of characters typed: 263
+Characters per second: 4.59014
+Number of words typed: 52.6
+Words per minute: 55.08168
+Error rate: 1.50375939849624
+LeftShift T H E Space D A Backspace Backspace Backspace Backspace Backspace H E Space D A Y Space A Backspace H A D Space B E G U N Space O N Space A Space B R I G H T Space N O T E Period Space LeftShift T H E Space S U N Space F I N A L L Y Space P E E K E D Space T R Backspace H R O U G H Space T H E Space T Backspace R A I N Space F O R Space T H E Space F I R S T Space T I M E Space I N Space A Space W E E K Comma Space A N D Space T H E Space B I R D S Space W E R E Space S I N G I N G Space I N Space I T S Space W A R M T H Period Space LeftShift LeftShift T H E R E Space W A S Space N O Space W A Y Space T O Space A N T I C I Backspace I P A T E Space W H A T Space W A S Space A B O U T Space T O Space H A P P E N Period Space LeftShift I T Space W A S Space A Space W O R S T Space Minus C A S E Space S C E N A R I O Space A N D Space T H E R E Space W A S Space N O Space W A Y Space O F Space I T Period Return 

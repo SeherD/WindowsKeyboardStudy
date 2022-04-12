@@ -1,0 +1,24 @@
+Test Phrase:dormitory doors are locked at midnight
+Transcribed Phrase:drmitory doors are locked at midnight
+Number of characters typed: 38
+Characters per second: 0.665283
+Number of words typed: 7.6
+Words per minute: 7.983396
+Error rate: 2.63157894736842
+I Backspace D O Backspace R O Backspace M I T O R Y Space D O O R S Space A R E Space L O C K E T Backspace T Backspace I Backspace D Space A T H Backspace H Backspace Space M I D E Backspace N T Backspace T Backspace I G H T Return 
+Test Phrase:be persistent to win a strike
+Transcribed Phrase:be persistent to wain a astrike
+Number of characters typed: 32
+Characters per second: 0.5909603
+Number of words typed: 6.4
+Words per minute: 7.091523
+Error rate: 6.45161290322581
+B E Space P E T Backspace R S I S T E N T Space T O Space W A I N Space N Backspace A C Backspace Space A S T R T Backspace T Backspace T Backspace T Backspace T Backspace T Backspace T Backspace I M L Backspace Backspace M Backspace M Backspace M Backspace O Backspace K E Return 
+Test Phrase:motivational seminars make me sick
+Transcribed Phrase:moivational seminars make me sick
+Number of characters typed: 33
+Characters per second: 0.5471366
+Number of words typed: 6.6
+Words per minute: 6.565639
+Error rate: 2.94117647058824
+Backspace M O T T L Backspace Backspace Backspace T Backspace I P Backspace P I Backspace Backspace F Backspace V A T I O N A S Backspace L Space S E M I N A R S Space M A K E C Backspace C Backspace Space M E Space S I R Backspace C O L Backspace Backspace K Return 

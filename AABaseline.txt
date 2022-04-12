@@ -1,0 +1,16 @@
+Test Phrase:sing the gospel and the blues
+Transcribed Phrase:sing the gospel and the blues
+Number of characters typed: 30
+Characters per second: 8.328518
+Number of words typed: 6
+Words per minute: 99.94222
+Error rate: 0
+S I N G Space T H E Space G O S P E L Space A N D Space T H E Space B L U E S Return 
+Test Phrase:you are not a jedi yet
+Transcribed Phrase:you are not a jedi yet
+Number of characters typed: 23
+Characters per second: 6.779162
+Number of words typed: 4.6
+Words per minute: 81.34994
+Error rate: 0
+Y O U Space A R E Space N E Backspace O T Space A Space J E D I Space Y E T Return 

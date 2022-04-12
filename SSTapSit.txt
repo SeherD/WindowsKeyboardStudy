@@ -1,0 +1,24 @@
+Test Phrase:the first time he tried to swim
+Transcribed Phrase:the first time he tried toa swim
+Number of characters typed: 33
+Characters per second: 0.5987584
+Number of words typed: 6.6
+Words per minute: 7.185101
+Error rate: 3.125
+T H E Space R Backspace F I F Backspace R S T Space T I M E Space H E Space T R I E D Space T O A Space S Y Backspace W O Backspace I M Return 
+Test Phrase:mom made her a turtleneck
+Transcribed Phrase:mom made her a turtleneck
+Number of characters typed: 26
+Characters per second: 0.6908014
+Number of words typed: 5.2
+Words per minute: 8.289616
+Error rate: 0
+M O M Space M E Backspace E Backspace A D E Space H E R Space E Backspace A Space T U R T L E N E C K Return 
+Test Phrase:the king sends you to the tower
+Transcribed Phrase:the king sends you to the tower
+Number of characters typed: 32
+Characters per second: 0.4620892
+Number of words typed: 6.4
+Words per minute: 5.545071
+Error rate: 0
+T H E Space K I T Backspace T Backspace N G Space S E N R R Backspace Backspace D S A Space Backspace Backspace Backspace Backspace D S Space Y O U Space T O V Backspace Space T H E Space T O W E R Return 

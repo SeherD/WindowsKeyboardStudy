@@ -1,0 +1,16 @@
+Test Phrase:a big scratch on the tabletop
+Transcribed Phrase:a big scratch on The aletop 
+Number of characters typed: 54
+Characters per second: 0.3487951
+Number of words typed: 10.8
+Words per minute: 4.185541
+Error rate: 13.7931034482759
+A E H L Backspace Backspace L Backspace Backspace Space B I L O Backspace H Backspace Backspace T Backspace M Backspace D Backspace I Backspace G Space S H Backspace C R A T W Backspace C H Space O E Backspace N Space T T L Backspace Backspace H E Q Backspace Space UpArrow E Backspace RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow UpArrow Alpha5 Backspace RightArrow RightArrow RightArrow UpArrow UpArrow UpArrow UpArrow UpArrow UpArrow UpArrow Backspace T Backspace RightArrow RightArrow Space A B Backspace L E T O B Backspace E Backspace E H Backspace Backspace U Backspace B R Backspace Backspace B Backspace P Return 
+Test Phrase:my watch fell in the water
+Transcribed Phrase:my watcoh fell in the water
+Number of characters typed: 28
+Characters per second: 0.3092147
+Number of words typed: 5.6
+Words per minute: 3.710576
+Error rate: 3.7037037037037
+M U L H Backspace L Backspace Backspace Backspace U Backspace Y H Backspace Space Z Backspace U Backspace U Backspace B Backspace J Backspace W A T Y Backspace H Backspace Space Backspace C O H Space M Backspace M Backspace M Backspace F M Backspace E L L Space T Backspace T Backspace T Backspace T Backspace T Backspace T Backspace T Backspace T Backspace I N H Backspace Space T H E M Backspace Space Z Backspace W A T E R Return 

@@ -1,0 +1,24 @@
+Test Phrase:completely sold out of that
+Transcribed Phrase:completely sold out of that
+Number of characters typed: 28
+Characters per second: 3.552122
+Number of words typed: 5.6
+Words per minute: 42.62546
+Error rate: 0
+C O M L P Backspace Backspace P L E T E L Y Space S O L D Space O U T Space O F Space T H A T Return 
+Test Phrase:protect your environment
+Transcribed Phrase:protect your environment
+Number of characters typed: 25
+Characters per second: 7.895666
+Number of words typed: 5
+Words per minute: 94.74799
+Error rate: 0
+P R O T E C T Space Y O U R Space E N V I R O N M E N T Return 
+Test Phrase:"Begin today!" That's all the note said. There was no indication from where it came or who may have written it. Had it been meant for someone else? Meghan looked around the room, but nobody made eye contact back. For a brief moment, she thought it might be a message for her to follow her dreams, but ultimately decided it was easier to ignore it as she crumpled it up and threw it away.
+Transcribed Phrase:"Begin today!" That's all the note said. There was no indication from where it came or who may have written it. Had it been meant for someone else? Meghan looked around the room, but nobody made eye contact back. For a brief moment, she thought i might be a message for her to follow her dreams, but ultimately decided it was easier to ignore it as she crumpled it
+Number of characters typed: 365
+Characters per second: 6.411204
+Number of words typed: 73
+Words per minute: 76.93444
+Error rate: 5.94315245478036
+RightShift Quote B E G I N Space T O D A Y RightShift Alpha1 Quote Space RightShift T H A T Quote S Space A L L Space T H E Space N O T E Space S A I D Period Space T Backspace RightShift T H E R E Space W A S Space N O Space I N D I C A T I O N Space F R O M Space W H E R E Space I T Space C A M E Space O R Space W H O Space M A Y Space H A V E Space W R I T T E N Space I T Period Space RightShift H A D Space I T Space B E E N Space M E A N T Space F O R Space S O M E O N E Space E L S E RightShift Slash Space M E G H A N Space L O O K E D Space A R O U N D Space T H E Space R O O M Comma Space B U T Space N O B O D Y Space M A D E Space E Y E Space C O N T A C T Space B A C Period Space RightShift F O Backspace Backspace Backspace Backspace K Period RightShift F Backspace RightShift Space F Backspace RightShift F O R Space A Space B R I E F Space M O M E N T Comma Space S H E Space T H O U G H T Space I Space M I G H T Space B E Space A Space M E S S A G E Space F O R Space H E R Space T O Space F O L L O W Space H E R Space D R E A M S Comma Space B U T Space L Backspace U L T I M A T E L Y Space D E C I D E D Space I T Space W A S Space E A S I E R Space T O Space I G N O R E Space I T Space A S Space S H E Space C R U M N Backspace P L E D Space I T Return 

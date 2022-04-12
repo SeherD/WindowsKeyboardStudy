@@ -1,0 +1,32 @@
+Test Phrase:wear a crown with many jewels
+Transcribed Phrase:wear acrown with many jewels
+Number of characters typed: 28
+Characters per second: 0.5242652
+Number of words typed: 5.6
+Words per minute: 6.291182
+Error rate: 3.44827586206897
+w e a r space a c r o w n space w i t h space m a n y space j e w e l s 
+Test Phrase:the dog buried the bone
+Transcribed Phrase:
+Number of characters typed: 0
+Characters per second: 0
+Number of words typed: 0
+Words per minute: 0
+Error rate: 100
+
+Test Phrase:players must know all the rules
+Transcribed Phrase:players must know all the rules
+Number of characters typed: 31
+Characters per second: 0.8596187
+Number of words typed: 6.2
+Words per minute: 10.31542
+Error rate: 0
+p l a t back y e r s space m u s t space k n o w space a l l space t h e space r u l e s 
+Test Phrase:Trees.It was something about the trees. The way they swayed with the wind in unison.The way they shaded the area around them. The sounds of their leaves in the wind and the creaks from the branches as they sway, the trees were making a statement that I just couldn't understand.
+Transcribed Phrase:Trees.It was something about the  trees. The way they swayed with the wind in unison.The way they shaded the are around them.The sound of their leaves in the wind and the creeks from the1rbranches as they sway, the trees were making a statement that I just couldn't understand.
+Number of characters typed: 277
+Characters per second: 0.8748869
+Number of words typed: 55.4
+Words per minute: 10.49864
+Error rate: 2.51798561151079
+t r back r e e s . i t space w a s space s o m e t h i n g space a b o u t space t h e space space t r e e s . space t h e space w a y space t h e y space s w a y e d space w i t h space t h e space w i n d space i n space u n i o n back back s o n . t h e space w a y space t h e y space s h a d e d space t h e space a r e space a t back r i back o u n d space t h e m . t h back h e space s o u n d space o f space t h e i r space l e a v e s space i n space t h e space w i n d space a n d space t h e space c r e e k s space f r o m space t h e 1 r b r a n c h e s space a s space t h e y space s w a y , space t h e space t r e e s space w e r e space m a k i n g space a space s t a t e m e n t t back space t h a t space i space j u s t space c o u l d n , t back back ' t space u n d e r s t a n d . 

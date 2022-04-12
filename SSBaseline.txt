@@ -1,0 +1,24 @@
+Test Phrase:flashing red light means stop
+Transcribed Phrase:flashing red light means stop
+Number of characters typed: 30
+Characters per second: 5.459623
+Number of words typed: 6
+Words per minute: 65.51548
+Error rate: 0
+F L A S H I N G Space R E D Space L I G H T Space M E A N S Space S T O P Return 
+Test Phrase:you want to eat your cake
+Transcribed Phrase:you want to eat your cake
+Number of characters typed: 26
+Characters per second: 7.962876
+Number of words typed: 5.2
+Words per minute: 95.5545
+Error rate: 0
+Y O U Space W A N T Space T O Space E A T Space Y O U R Space C K A Backspace Backspace A K E Return 
+Test Phrase:The computer wouldn't start. She banged on the side and tried again. Nothing. She lifted it up and dropped it to the table. Still nothing. She banged her closed fist against the top. It was at this moment she saw the irony of trying to fix the machine with violence.
+Transcribed Phrase:The computer wouldn't start. She banged on the side and tried again. Nothing. She lifted it up and dropped it to the table. Still nothing. She banged her closed fist against the top. It was at this moment she saw the irony of trying to fix the machine with violence.
+Number of characters typed: 267
+Characters per second: 7.935308
+Number of words typed: 53.4
+Words per minute: 95.2237
+Error rate: 0
+LeftShift T H E Space C O M P U T E R Space W O U D L N Quote T Backspace Backspace Backspace Backspace N Backspace Backspace L D N Quote T Space S T A R T Period Space LeftShift S H E Space B A N G E D Space O N Space T H E Space S I D E Space A N D Space T R I E D Space A G A I N Period Space LeftShift N O T H I N G Period Space LeftShift S H E Space L I F T E D Space I T Space U P Space A N D Space D R O P P E D Space I T Space T O Space T H E Space T A B L E Period Space LeftShift S T I L L Space N O T H I N G Period Slash Space Backspace Backspace Space LeftShift S H E Space B A N G E D Space H E R Space C L O S E D Space F I S T Space A G A I N S T Space T H E Space T O P Period Space LeftShift I T Space W A S Space A S Backspace T Space T H I S Space M O M E N T Space S H E Space S A W Space T H E Space I R O N Y Space O F Space T R Y I N G Space T O Space F I X Space T H E Space M A C H I N E Space W I T H Space V I O L E N C E Period Return 

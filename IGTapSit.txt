@@ -1,0 +1,16 @@
+Test Phrase:the rationale behind the decision
+Transcribed Phrase:the Glgratiole behindha the deoici9sion
+Number of characters typed: 167
+Characters per second: 2.35329
+Number of words typed: 33.4
+Words per minute: 28.23948
+Error rate: 25.6410256410256
+JoystickButton4 Joystick1Button4 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 U B Backspace Backspace T H E Space G L G R A T I O A N A E O RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow RightArrow Backspace RightArrow RightArrow RightArrow Backspace Backspace Backspace Backspace RightArrow L E Space B E H I N D H A Space T H E Space D E O I C I Alpha9 S I O N Return 
+Test Phrase:the rationale behind the decision
+Transcribed Phrase:the raitionale bhindh t0herrRrcr decisioan
+Number of characters typed: 44
+Characters per second: 0.7551998
+Number of words typed: 8.8
+Words per minute: 9.062398
+Error rate: 26.1904761904762
+T H E Space R A I T I O N A L E Space B E Backspace H I N D H Space T RightArrow Alpha0 H E R R R R C R Space D E C I S I O A N Return 

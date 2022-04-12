@@ -1,0 +1,32 @@
+Test Phrase:sign the withdrawal slip
+Transcribed Phrase:s
+Number of characters typed: 2
+Characters per second: 1.760426
+Number of words typed: 0.4
+Words per minute: 21.12512
+Error rate: 95.8333333333333
+S Return 
+Test Phrase:sing the gospel and the blues
+Transcribed Phrase:s
+Number of characters typed: 2
+Characters per second: 1.06319
+Number of words typed: 0.4
+Words per minute: 12.75828
+Error rate: 96.551724137931
+S Return 
+Test Phrase:elephants are afraid of mice
+Transcribed Phrase:e
+Number of characters typed: 2
+Characters per second: 1.841225
+Number of words typed: 0.4
+Words per minute: 22.0947
+Error rate: 96.4285714285714
+E Return 
+Test Phrase:Trees.It was something about the trees. The way they swayed with the wind in unison.The way they shaded the area around them. The sounds of their leaves in the wind and the creaks from the branches as they sway, the trees were making a statement that I just couldn't understand.
+Transcribed Phrase:TreeIt was somthing about the trees. The way they swayed with the i wind in unisonThe way they shaded the area around them. The sounds of their leaves in the iuind anholhhhhh the creaks from the branches as they siway, the trees wer making a statement that I just cldn't understand.
+Number of characters typed: 284
+Characters per second: 0.5727704
+Number of words typed: 56.8
+Words per minute: 6.873244
+Error rate: 7.09219858156028
+T Backspace T Backspace Backspace T Backspace R Backspace T R E E U Backspace S Space Backspace Period T Backspace Backspace Backspace T Backspace M Backspace I T Z Backspace C Backspace Space W A S H M Backspace Backspace Space S O M F Backspace E Backspace T H I N K L R Backspace Backspace Backspace G LeftCommand LeftCommand R Backspace Space A B O U T Space T H E Space T R E E O Backspace U Backspace S Space Backspace Period Space R Backspace E Backspace T H M Backspace E Space W A Y C Backspace Space T H E Y Space S Z Backspace W A Y E D Space Z Backspace W I T H Space T H E Space I Z Backspace Space C Backspace Z M Backspace Backspace W T Backspace I N D C Backspace Space T Backspace I N Space U E Backspace N I S O N Space Backspace Period R Backspace Backspace R Backspace R Backspace T H E Space W N Backspace A N O Backspace Backspace Y Space T H E Y Space S H A D E M Backspace D Space T H E Space A R E A Space A R O U N D Space T H E M Space Backspace Period Space T H E Space S O U N D S Space O F Space T H E I R H Backspace Space S Backspace L E A P R Backspace Backspace B Backspace P Backspace S Backspace P Backspace K Backspace P L L Backspace R Backspace Backspace Backspace V E S Space I N Space T H E Space I U W T Backspace Backspace I N D Space A N R Backspace R Backspace F Backspace R Backspace D Backspace H O L U Backspace H H H H H Space T H E Space C R M Backspace E A K S H Backspace C Backspace H L Backspace Q Backspace Backspace C Backspace Space F R O X Backspace M Space T H E Space B R A N C H E S Space A S Space T Q Backspace H M H Backspace Backspace E Y C Backspace C Backspace Space S I W A Y A Backspace Comma Space T H E Space T R E E S Space W E R E C Backspace Backspace Space B Backspace M A K I N G C T R R Backspace Backspace Backspace R Backspace Backspace Space A Space S T A T E M E N T H Backspace Space T H A T Space T Backspace T LeftShift Backspace I Space Q Backspace J U S T Space C O U Backspace Backspace L D F Backspace N L Backspace L Backspace Quote T Space U N D E R S T A N D Space Backspace Period Return 

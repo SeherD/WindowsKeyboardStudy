@@ -1,0 +1,24 @@
+Test Phrase:starlight and dewdrop
+Transcribed Phrase:starlight and dewdrop
+Number of characters typed: 22
+Characters per second: 4.935802
+Number of words typed: 4.4
+Words per minute: 59.22962
+Error rate: 0
+S T A R L I G H Space Backspace T Space A N D Space D E W D R O P Return 
+Test Phrase:coalition governments never work
+Transcribed Phrase:coalition governmnets never work
+Number of characters typed: 33
+Characters per second: 3.105648
+Number of words typed: 6.6
+Words per minute: 37.26778
+Error rate: 6.25
+C O A L Backspace Backspace A L I R I O N Space Backspace Backspace Backspace Backspace Backspace T I O N Space G O V E R N M N E T S Space M Backspace N E V E R Space W O R K Return 
+Test Phrase:The alarm went off at exactly 6:00 AM as it had every morning for the past five years. Barbara began her morning and was ready to eat breakfast by 7:00 AM. The day appeared to be as normal as any other, but that was about to change. In fact, it was going to change at exactly 7:23 AM.
+Transcribed Phrase:The alarm went off at exactly 6:00 AM as if had every morning for the past five years. Barbara began her morning and was ready to eat breakfast by 7:00 AM. The day appeared to be as normal as any other, but that was about to change. In fact, it was going to change at exactly 7:23 AM.
+Number of characters typed: 284
+Characters per second: 2.585906
+Number of words typed: 56.8
+Words per minute: 31.03086
+Error rate: 0.352112676056338
+T H E Space A L A Backspace Backspace Backspace Backspace Backspace Backspace Backspace Backspace LeftShift T H E Space A L A R M Space W E N Space T Backspace Backspace T Space O F F Space A T Space E X A C T L Y Alpha6 RightShift Semicolon Alpha0 Alpha0 Space Backspace Backspace Backspace Backspace Backspace Space Alpha6 RightShift Semicolon Alpha0 Alpha0 Space LeftShift A M Space A S Space I F Space H A D Space E V E R Y Space M O R N I N G Space F O R Space T H E Space P A S T Space F I V E Space Y E A R S Period Space LeftShift B A R B A R A Space B E G A N Space T H E I R Space W Backspace M O R N I N G Space Backspace Backspace Backspace Backspace Backspace Backspace Backspace Backspace Backspace Backspace Backspace Backspace Backspace Backspace H E R Space M O R N I N G Space A N D Space W A S Space R E A D Y Space T P Space Backspace Backspace O Space E A T Space B R E A K F A S T Space B Y Space Alpha7 RightShift Semicolon Alpha0 Alpha0 Space LeftShift A M Space Backspace Period Space LeftShift T H E Space D A Y Space A P P E A R E D Space T O Space B E Space A S Space N O R M A L Space A S Space A N Y Space O T H E R Comma Space B U Space Backspace T Space T H A T Space W A S Space A B O U T Space T O Space C H A N G E Space Backspace Period Space LeftShift I N Space F A C T Comma Space I T Space W A S Space G O I N G Space T O Space C H A N G E Space A T Space E X A C T L Y Space Alpha7 RightShift Semicolon Alpha2 Alpha3 Space LeftShift A M Period Return 

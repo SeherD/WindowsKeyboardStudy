@@ -1,0 +1,24 @@
+Test Phrase:we dine out on the weekends
+Transcribed Phrase:we dine out on the weekends
+Number of characters typed: 28
+Characters per second: 3.528481
+Number of words typed: 5.6
+Words per minute: 42.34178
+Error rate: 0
+Escape W E Space Backspace Backspace Backspace Backspace W E Space D I N E Space O U T Space O N Space T H E Space W E E K E N D S Return 
+Test Phrase:he played a pimp in that movie
+Transcribed Phrase:he played a pimp in that movie
+Number of characters typed: 31
+Characters per second: 4.248749
+Number of words typed: 6.2
+Words per minute: 50.98499
+Error rate: 0
+H E Space P L A Y E D Space A Space P I M P Space I N Space T H A T Space M O V I E Return 
+Test Phrase:Dragons don't exist, they said. They are the stuff of legend and people's imagination. Greg would have agreed with this assessment without a second thought 24 hours ago. But now that there was a dragon staring directly into his eyes, he questioned everything that he had been told.
+Transcribed Phrase:Dragons don't exist, they said. They are the stuff of legend and people's imagination. Greg would have agreed with this assessement without a second thought 24 hours ago. But now that there was a dragon staring directly into his eyes, he questioned everything that he had been told
+Number of characters typed: 282
+Characters per second: 3.521701
+Number of words typed: 56.4
+Words per minute: 42.26041
+Error rate: 0.711743772241993
+RightShift D R A G O N S Space D O N Quote T Space E X I S T Space Backspace Comma Space T H E Y Space S A I D Period Space RightShift T H E Y Space A R E Space T H E Space S T U F F Space O F Space L E G E N D Space A N D Space P R O P L E Quote S Space Backspace Backspace Backspace Backspace Backspace Backspace Backspace Backspace E O P L E Quote S Space I M A G I N A T I O N Period Space RightShift G R E G Space W O U L D Space H A V E Space A G R E E D Space W I T H Space T H I S Space A S S E S S E M E N T Space W I T H O U T Space A Space S E C O N D Space T H O U G N T Space Backspace Backspace Backspace Backspace G H T Space Alpha2 Alpha4 Space H O U R S Space A G O Period Space RightShift B U T Space N P Backspace O W Space T H A T Space T H E R E Space W A S Space A Space D R A G O N Space S T A R I N G Space D I R E C T L Y Space O Backspace I N T O Space H I S Space E Y E S Comma Space H E Space Q U E S T I O N E D Space E V E R Y T H I N G Space T H A T Space H E Space H A D Space B E E N Space T O L D Return 

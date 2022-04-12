@@ -1,0 +1,32 @@
+Test Phrase:six daughters and seven sons
+Transcribed Phrase:six daughters and seven sons
+Number of characters typed: 74
+Characters per second: 9.712235
+Number of words typed: 14.8
+Words per minute: 116.5468
+Error rate: 0
+JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton5 Joystick2Button5 JoystickButton15 Joystick2Button15 JoystickButton1 Joystick2Button1 JoystickButton5 Joystick2Button5 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton17 Joystick2Button17 JoystickButton5 Joystick2Button5 JoystickButton5 Joystick2Button5 S I X Space A I X Z S S S JoystickButton15 Joystick2Button15 S I X Space D A U G H T E R S Space A N D F Space Backspace Backspace Space S E V E N Space S O N G Backspace S Return 
+Test Phrase:we are having spaghetti
+Transcribed Phrase:we are having spaghetti
+Number of characters typed: 24
+Characters per second: 4.573429
+Number of words typed: 4.8
+Words per minute: 54.88115
+Error rate: 0
+W E Space A R E Space H A V I N G Space S P A G H E T T I Return 
+Test Phrase:I agree with you
+Transcribed Phrase:I agree with you
+Number of characters typed: 17
+Characters per second: 7.413846
+Number of words typed: 3.4
+Words per minute: 88.96616
+Error rate: 0
+RightShift I Space A G R E E Space W I T H Space Y O U Return 
+Test Phrase:The choice was red, green, or blue. It didn't seem like an important choice when he was making it, but it was a choice nonetheless. Had he known the consequences at that time, he would likely have considered the choice a bit longer. In the end, he didn't and ended up choosing blue.
+Transcribed Phrase:The choice was red, green or blue. It didn't seem like an important choice when he was making it, but it was a choice nonetheless. Has he known the consequences at that time, he would likely have considered the choice a bit longer. In the end, he didn't and ended up choosing blue.
+Number of characters typed: 284
+Characters per second: 2.807755
+Number of words typed: 56.8
+Words per minute: 33.69306
+Error rate: 0.709219858156028
+RightShift T H E Space C H O I C E Space Q Backspace E S Backspace Backspace R Backspace W A S Space R E D Comma Space G R E E N Space O R Space B L U E Space Period RightShift I T Space D I Backspace Backspace Backspace Backspace T Space D I D N Quote T Space S E E M Space L I K E Space A N Space I M Semicolon O Backspace Backspace LeftBracket P Backspace Backspace P O R T A N T Y Backspace Space C H O I C E Space W H E N Space H E Space W A S Space M A K I N G Space I T Comma Space B U T Space I T Space Q Backspace W A S Space A Space C H I O Backspace Backspace O I C E Space N O N E T H E L E S S Period Space RightShift H A S Space H E Space K M Backspace N O W N Space T H E Space C O N S E Tab U Backspace Backspace Backspace E Q Y Backspace U E N C E S Space A T R Backspace Space R G CapsLock R Backspace Backspace Backspace R H Backspace Backspace T Backspace CapsLock R Backspace T H A T Space T I M E Space H Backspace Backspace M Space Backspace Backspace Comma Space H E Space W O U L D Space L I L E Backspace Backspace K E L Y Space H A V E Space C O N S I D E R E D Space T H E W Space Backspace Backspace Backspace E Space C H I U Backspace Backspace O I C E Space A Space B U T Backspace Backspace I T Space L O N G W E Backspace Backspace E R Comma Space Backspace Backspace Comma Backspace Period Space RightShift U Backspace RightShift U Backspace RightShift I N Space T H E Space E B D Backspace Backspace B Backspace N D Comma Space H E Space D I D N Quote T Space A N F Space Backspace Backspace G Backspace D Space E N D Space Backspace E D Space U P Space C G Backspace H I Backspace O O S I N G Space B L U E Period Return 

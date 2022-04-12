@@ -1,0 +1,24 @@
+Test Phrase:he was wearing a sweatshirt
+Transcribed Phrase:he was wearing a sweatshirt
+Number of characters typed: 30
+Characters per second: 0.2967545
+Number of words typed: 6
+Words per minute: 3.561054
+Error rate: 0
+H E Space W E L Backspace Backspace A S H Backspace Space D Tab Backspace Backspace Tab Alpha8 Backspace Backspace N LeftCommand LeftCommand L Backspace H Backspace Backspace Space Backspace W E A R L Backspace E Backspace L A Backspace Backspace I T Backspace T Backspace N C Backspace L Backspace G Space A R L L Backspace Quote Backspace Backspace Backspace Space S D Backspace R H Backspace L Backspace L L Backspace Backspace Q Backspace H H L Backspace Backspace Backspace Backspace W E A T Z Backspace S Q Backspace H I R Backspace R T Return 
+Test Phrase:weeping willows are found near water
+Transcribed Phrase:weeping wilows are found near watere
+Number of characters typed: 37
+Characters per second: 0.5448425
+Number of words typed: 7.4
+Words per minute: 6.53811
+Error rate: 5.55555555555556
+W E E P L Backspace I N C Backspace G J H H Backspace Backspace H Backspace Backspace J Backspace Space W L Backspace I L Backspace L O C Backspace T Backspace W S Space A R E Space P Backspace F O U N D Space N E A R H Backspace Space W A T E R E Return 
+Test Phrase:her majesty visited our country
+Transcribed Phrase:her maJesty visited our country
+Number of characters typed: 31
+Characters per second: 0.4140986
+Number of words typed: 6.2
+Words per minute: 4.969182
+Error rate: 3.2258064516129
+Backspace H E R J Backspace Space Backspace J Backspace Space M A R L Backspace Backspace P Backspace J E S Backspace S T Y Space Space Backspace Space H Backspace Backspace V L Backspace I S L Backspace I T E D Space O S Backspace U R Space C O U A Backspace N Backspace N T R Y Return 

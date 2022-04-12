@@ -1,0 +1,32 @@
+Test Phrase:look in the syllabus for the course
+Transcribed Phrase:look in the syllabus for the course
+Number of characters typed: 36
+Characters per second: 0.7900774
+Number of words typed: 7.2
+Words per minute: 9.480928
+Error rate: 0
+L O O K Space U N Space Backspace Backspace Backspace I N Space T H R Space Backspace Backspace E Space S Y Semicolon Semicolon Backspace Backspace L K Backspace K Backspace K Backspace L Z Backspace S Backspace A B U D F Backspace Backspace D Backspace D Backspace S Space G Backspace G Backspace G Backspace Backspace Space F O R T Backspace Space T Y H J Backspace Backspace Backspace H E Space C I Backspace P Backspace O U T Backspace R T Backspace D Backspace S E Return 
+Test Phrase:the cat has a pleasant temperament
+Transcribed Phrase:the cat has a pleasant temperament
+Number of characters typed: 38
+Characters per second: 0.4674491
+Number of words typed: 7.6
+Words per minute: 5.60939
+Error rate: 0
+T H E Space Space Backspace V Backspace V Backspace V Backspace C Z Backspace S A Backspace Backspace S Backspace A T Space H S Backspace A S Space A Space LeftBracket Semicolon Insert Insert Backspace Backspace LeftBracket P Insert Backspace K Backspace L E A S A J Backspace K Backspace J H H Backspace Backspace Backspace J Backspace N T Space Y Alpha6 Backspace Backspace Backspace Space T R Backspace E Comma Backspace B Backspace M P R Backspace Backspace LeftBracket P Backspace R T Backspace Backspace D E Backspace Backspace E R A K Backspace N T Backspace Backspace M D E Equals Equals Backspace Backspace Backspace Backspace E M Backspace J Backspace K Backspace H Backspace F Backspace Equals Equals Backspace Backspace N T Return 
+Test Phrase:everybody looses in custody battles
+Transcribed Phrase:everybody looses in custody battles
+Number of characters typed: 36
+Characters per second: 0.6776118
+Number of words typed: 7.2
+Words per minute: 8.131342
+Error rate: 0
+E V E R Y G Backspace B O F Backspace F Equals Backspace Backspace D Alpha5 Backspace T Backspace U Backspace T Backspace Y Space Semicolon Backspace L P P Backspace Backspace I I Backspace Backspace O O S E S Space I M Space Backspace Backspace Backspace I N Space C U D T Backspace Backspace S U Backspace T Y Backspace O F Backspace D Y Space B S Backspace S Backspace A T T L W A Backspace Backspace Equals Backspace E S Return 
+Test Phrase:The lone lamp post of the one - street town flickered, not quite dead but definitely on its way out. Suitcase by her side, she paid no heed to the light, the street or the town.A car was coming down the street and with her arm outstretched and thumb in the air, she had a plan.
+Transcribed Phrase:The lone lamp post of the one - street town flickered. not quite dead but definitely on its way out. Suitcase by her side, she paid no heed to the light, the street or the town.A car was coming down the street and with her arm outstretched and thumb in the air, she had a plan.
+Number of characters typed: 278
+Characters per second: 0.9311733
+Number of words typed: 55.6
+Words per minute: 11.17408
+Error rate: 0.36101083032491
+RightShift T Y Backspace Y Backslash Backspace Backspace H E Space Semicolon P M Backspace Backspace Backspace L O M Backspace M N Backspace Backspace N E Space L A Comma Backspace M P Space P O D Backspace D Backspace S T Space O G Space Backspace Backspace G Backspace F Space T H R Backspace E Space O N E Space Equals Backspace Minus Space A Backspace S T R E E T Space T P Backspace I Backspace O W M Backspace N Space F L I O Backspace C V Backspace K E R E D Period Space M P Backspace Backspace N P Y Backspace Backspace O T Space Q I O Backspace Backspace U I E R Equals Equals Backspace Backspace Backspace Backspace E W Backspace Backspace Alpha6 Backspace T E Space D E A D Space N U T Backspace Backspace Backspace B H Backspace U T Space F Backspace D E G Backspace F O M O Backspace Backspace Backspace O O M Backspace Backspace Backspace O Backspace O M Backspace Backspace U I N Backspace Backspace Backspace U N Backspace Backspace O M Backspace Backspace I N I T E O Backspace P Backspace Quote Backspace P Backspace L Y Space O N Space I Y D Backspace Backspace Y Backspace T S Space W A Y Space P I Backspace Backspace P Backspace P Backspace O U T Period Space LeftShift S I Backspace U I T C A S W Backspace E Space N U Backspace Backspace B Y Space H R T Backspace Backspace E R Space D Backspace S I D E Period Space Backspace Backspace Comma Space D Backspace S H E Space LeftBracket Backspace Alpha0 Backspace Minus Backspace P A O Backspace O Backspace I D Space M O Backspace Backspace N O P Backspace Space J E Backspace Backspace G Backspace H E E D Space Alpha6 O Backspace Backspace Y Backspace T P Space Backspace Backspace O Space T H R Space Backspace Backspace R Space Backspace Backspace E Space Semicolon Backspace L O Backspace I G H T Comma Space T H R Space Backspace Backspace E Space S Y T Backspace Backspace Y Backspace Y Backspace T R E E T Space O R Space T H E Space T P Backspace O W M Backspace Backspace E W Backspace M Backspace N Period LeftShift A Space C A R Space W A S Space C O M I N G Space D I W Equals Equals Backspace Backspace Backspace Backspace O W M Space Backspace Backspace N Space T H R Space Backspace Backspace R Space Backspace Backspace E Space S T R E E T Space A M F Backspace Backspace N D Space W I Y H Backspace Backspace T H Space H E R Space A R Comma Space Backspace Backspace M Space P Backspace O U T D Backspace S T R E T C G E D Backspace Backspace Backspace Backspace C H E D Space S Backspace A M Backspace N D Space T H I Comma Backspace Backspace U Y M Backspace Backspace N Backspace M B Space I N Space R G H Backspace Backspace Backspace T H E R Backspace Space A I R Space Backspace Comma Space S H W Backspace E Space H A D Space A Space LeftBracket Semicolon Backspace Backspace O K Backspace Backspace O K Backspace Backspace P L A N Period Return 

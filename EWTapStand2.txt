@@ -1,0 +1,24 @@
+Test Phrase:weeping willows are found near water
+Transcribed Phrase:w
+Number of characters typed: 2
+Characters per second: 2.011197
+Number of words typed: 0.4
+Words per minute: 24.13437
+Error rate: 97.2222222222222
+W Return 
+Test Phrase:earth quakes are predictable
+Transcribed Phrase:e
+Number of characters typed: 2
+Characters per second: 6.536829
+Number of words typed: 0.4
+Words per minute: 78.44195
+Error rate: 96.4285714285714
+E Return 
+Test Phrase:this is too much to handle
+Transcribed Phrase:t
+Number of characters typed: 2
+Characters per second: 4.82268
+Number of words typed: 0.4
+Words per minute: 57.87216
+Error rate: 96.1538461538462
+T Return 

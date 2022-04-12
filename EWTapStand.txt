@@ -1,0 +1,8 @@
+Test Phrase:experience is hard to come by
+Transcribed Phrase:experienulce is har to mehs yubay
+Number of characters typed: 44
+Characters per second: 0.7282572
+Number of words typed: 8.8
+Words per minute: 8.739086
+Error rate: 30.3030303030303
+JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 E Backspace E X P E R I E N U L C E R Backspace Space I S H Backspace Space H A R D Backspace H T Backspace T Backspace Backspace Space T O H Backspace Space C O Backspace Backspace M E H S Space Y U B A Y Return 

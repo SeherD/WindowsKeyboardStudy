@@ -1,0 +1,32 @@
+Test Phrase:obligations must be met first
+Transcribed Phrase:obligations must be met first
+Number of characters typed: 48
+Characters per second: 5.192976
+Number of words typed: 9.6
+Words per minute: 62.31571
+Error rate: 0
+JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 JoystickButton16 Joystick1Button16 O B L I U Backspace Backspace I G A T I O N S Space M U S T Space B E Space M E T Space F I R S T Return 
+Test Phrase:your etiquette needs some work
+Transcribed Phrase:your etiquette needs some work
+Number of characters typed: 37
+Characters per second: 4.168444
+Number of words typed: 7.4
+Words per minute: 50.02133
+Error rate: 0
+T I Y R Space Backslash RightBracket Backslash Backslash Backslash Backspace Backspace Backspace Backspace Y I Backspace O U R Space E T I Q U E T T E Space N E E D S Space S O M E Space W O R K Return 
+Test Phrase:granite is the hardest of all rocks
+Transcribed Phrase:granite is the hardest of all rocks
+Number of characters typed: 36
+Characters per second: 4.678504
+Number of words typed: 7.2
+Words per minute: 56.14205
+Error rate: 0
+G R A N I T E Space I S Space T H E Space H A R D E S T Space O F Space A L L Space R O K Backspace C K S Return 
+Test Phrase:Trees.It was something about the trees. The way they swayed with the wind in unison.The way they shaded the area around them. The sounds of their leaves in the wind and the creaks from the branches as they sway, the trees were making a statement that I just couldn't understand.
+Transcribed Phrase:Trees.It was something about the trees. The way they swayed with the wind in unison. The way they shaded the area around them. The sounds of their leaves in the wind and the creaks from the branches as they sway, the trees were making a statement that I just couldn
+Number of characters typed: 266
+Characters per second: 3.58009
+Number of words typed: 53.2
+Words per minute: 42.96108
+Error rate: 5.39568345323741
+LeftShift T H Backspace R E E S Slash Backspace Period LeftShift I T Space W A S Space S O M E T H I N G Space A B O U T Space T H E Space T R E E S Period Space LeftShift T H E Space W A Y Space T H E Y Space S A W Y Backspace Backspace Backspace W A Y E D Space W I T H Space T H E Space W I N D Space I N Space U N I S O N Period Backspace Slash Backspace Period Space LeftShift R Backspace LeftShift H Backspace LeftShift T H E Space W A Y Space T H E Y Space S H A D E D Space T H E Space A R E A Space A B Backspace R O U N D Space T H E M Slash Backspace Period Space LeftShift T G E Space Backspace Backspace Backspace H E Space S O U Alpha7 N D Backspace Backspace Backspace N D S Space O G Backspace F Space T H E I R Space L E A V E S Space I N Space T H E Space W I N D Space A N D Space T H E Space C R E A K S Space F R O M Space T H E Space B R A N C H E S Space A S Space T H E Y Space S W A Y Space Backspace Comma Space T H E Space R T Backspace Backspace T E Backspace R E E S Space W E R E Space M A K I N G Space A Space S T A T E M E N T Space T H A T Space LeftShift LeftShift I Space J U S T Space C Backspace C O U L D N Return 

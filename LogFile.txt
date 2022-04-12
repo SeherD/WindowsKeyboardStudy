@@ -1,0 +1,40 @@
+Test Phrase:video camera with a zoom lens
+Transcribed Phrase:
+Number of characters typed: 2
+Characters per second: Infinity
+Number of words typed: 0.4
+Words per minute: Infinity
+Error rate: 100
+DownArrow Space 
+Test Phrase:are you talking to me
+Transcribed Phrase:
+Number of characters typed: 0
+Characters per second: NaN
+Number of words typed: 0
+Words per minute: NaN
+Error rate: 100
+
+Test Phrase:please take a bath this month
+Transcribed Phrase:
+Number of characters typed: 0
+Characters per second: NaN
+Number of words typed: 0
+Words per minute: NaN
+Error rate: 100
+
+Test Phrase:gas bills are sent monthly
+Transcribed Phrase:
+Number of characters typed: 0
+Characters per second: NaN
+Number of words typed: 0
+Words per minute: NaN
+Error rate: 100
+
+Test Phrase:the pen is mightier than the sword
+Transcribed Phrase:
+Number of characters typed: 0
+Characters per second: NaN
+Number of words typed: 0
+Words per minute: NaN
+Error rate: 100
+

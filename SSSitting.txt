@@ -1,0 +1,32 @@
+Test Phrase:the music is better than it sounds
+Transcribed Phrase:the music is better than it sounds
+Number of characters typed: 34
+Characters per second: 1.214813
+Number of words typed: 6.8
+Words per minute: 14.57775
+Error rate: 0
+back n i r back back back t h e space m u s i c space i s space b e t t e r space t h a n space i t space s o u n d s 
+Test Phrase:safe to walk the streets in the evening
+Transcribed Phrase:safe to walk the streets in the evening
+Number of characters typed: 39
+Characters per second: 1.494783
+Number of words typed: 7.8
+Words per minute: 17.9374
+Error rate: 0
+s a f e space t o space w a l k space t h e space s t r e e t s space i n space t h e space e v e n i n g 
+Test Phrase:universities are too expensive
+Transcribed Phrase:universities are too expensive
+Number of characters typed: 30
+Characters per second: 1.124129
+Number of words typed: 6
+Words per minute: 13.48955
+Error rate: 0
+u n i v e r s i t i e s space a r e space t o o space e x p e s back n s i v e 
+Test Phrase:Spending time at national parks can be an exciting adventure, but this wasn't the type of excitement she was hoping to experience. As she contemplated the situation she found herself in, she knew she'd gotten herself in a little more than she bargained for. It wasn't often that she found herself in a tree staring down at a pack of wolves that were looking to make her their next meal.
+Transcribed Phrase:Spending time at national parks can be an exciting adventure, but this wasn't the type of excitement she was hoping to experience. As she contemplated the situation she found herself in, she knew she'd gotten herself in a little more than she bargained for. It wasn't often that she found herself in a tree staring down at a pack of wolves that were looking to make her their next meal.
+Number of characters typed: 386
+Characters per second: 1.202493
+Number of words typed: 77.2
+Words per minute: 14.42991
+Error rate: 0
+s p back p e n d i n g space t i m space back e space a t space n a y i back back t i o n a l space p a r k s space x back c a n space b e space a n space e x c i t i n g space a d v e n t u r e , space b u t space t h i s space w a s n ' t space t h e space t y p e space o f space e x c i t e m e n t space s h e space w a s space h o p i n space back g space t o space e x p e r i e n c e . space a s space s e back h e space c o n t e m p l a t e d space t e back h e space s i t u a y back t i o n space s h e space f o u n d space h e r s e l f space i n space back , space s h e space k n e w space s h e ' d space g o t t e n space h e r s e l f space i n space a space l i t t l e space m o r e space t h a n space s h space e back back e space b a r g a i n e d space f o r . space i back i t space w a s n t back ' t space o f t e n space t a h back back h a t space s h e space f o u n d space h e r s e ! back f back l f space i n space a space t r e e space s r back t a r i n g space d o w n space a t space a space p a c k space o f space w o l v e s space t h a t space w e r e space l o o k i n g space t o space m a k e space h e r space t h e i r space n e x t space m e a l . 
